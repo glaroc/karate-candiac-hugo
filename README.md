@@ -1,3 +1,4 @@
+
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with **Meghna Hugo** theme by following these easy steps(No Coding Required!)
 
@@ -97,3 +98,4 @@ We are available for **Hiring** for your next HUGO project. Drop us a mail at [m
 | **Enov** | **Vixcon** | **Orbitor** |
 | [![Agen](https://gethugothemes.com/wp-content/uploads/edd/2019/09/agen-hugo-theme.jpg)](https://gethugothemes.com/products/agen-hugo/) | [![Navigator](https://gethugothemes.com/wp-content/uploads/edd/2019/08/Navigator.jpg)](https://gethugothemes.com/products/navigator/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
 | **Agen** | **Navigator** | **More Hugo Themes** |
+=======
