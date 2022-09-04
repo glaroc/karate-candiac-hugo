@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Nos cours
+  service_item :
+    # service item loop
+    - name : 5-7 ans 
+      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content : Mercredi 18h30-19h30
+      
+    # service item loop
+    - name : 8-10 ans
+      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content : Mercredi 18h30-19h30
+      
+    # service item loop
+    - name : 11-15 ans 
+      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content : Lundi 18h30-19h30
+      
+    # service item loop
+    - name : 16 ans et +
+      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content : Lundi 19h30-21h00
+      
+    # service item loop
+    - name : Parent-enfant
+      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content : Lundi 18h30-19h30
+      
+    # service item loop
+    - name : Perfectionnement pour tous
+      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content : Mercredi 19h30-20h30
