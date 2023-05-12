@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2 text-center">
+        <h1>{{ .Title }}</h1>
+      </div>
+      <div class="col-lg-8 offset-lg-2">
+        <div class="post-single-content">
+          {{ .Content }}
+          <div>
+            <a href="https://www.youtube.com/playlist?list=PLv1cdfh1vMbqOtu76bQnBYAd2CvArzg9T"­­ target="_blank">Liste de lecture complète sur Youtube</a><br><br>
+            <select id="videomenu">
+            <option value="MGLl88TYl5w">1er kata</option>
+            <option value="paWbNEikEMs">3e kata</option>
+            <option value="I0nNKv1i3sw">4e kata</option>
+            <option value="Jqd4ae9Ttzw">5e kata</option>
+            <option value="uYK-XqdvPwE">1ere forme</option>
+            <option value="VgroTAimb_Y">2e forme</option>
+            <option value="WLOAWwEdWLc">3e forme</option>
+            <option value="PLodBAlBs1Q">Midoli motto wasa</option>
+            <option value="CMnDsqifIr4">1er pinan</option>
+            <option value="tgbEGk7idoE">2e pinan</option>
+            <option value="ajeiHPHwOXI">3e pinan</option>
+            <option value="zUb5v6kXuV4">Ao motto wasa</option>
+            <option value="U0nlcAD_G3Y">4e pinan</option>
+            <option value="bOd0dHKFv9k">5e pinan</option>
+            <option value="P4eFTcIpRq4">Naihanchi 1</option>
+            </select>
+            </div>
+        </div>
+        <div id="vidframe" style="width:800px;margin-top:20px;"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
+
+
