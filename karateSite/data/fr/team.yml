@@ -4,7 +4,7 @@ team:
   title : Notre équipe de senseis
   team_member :
     # team member loop
-    - name : Abul Mal Muhit
+    - name : Tristan
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : CEO/Founder
@@ -18,7 +18,7 @@ team:
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        
+
     # team member loop
     - name : Frank Miller
       image_webp : images/team/team-2.webp
@@ -34,7 +34,7 @@ team:
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        
+
     # team member loop
     - name : Michael Jonson
       image_webp : images/team/team-3.webp
@@ -50,7 +50,7 @@ team:
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        
+
     # team member loop
     - name : Mo. Kha. Alamgir
       image_webp : images/team/team-4.webp
