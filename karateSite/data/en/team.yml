@@ -1,14 +1,17 @@
 ############################### team ############################
 team:
   enable : true
-  title : Our Team
+  title : The Sensei
   team_member :
     # team member loop
-    - name : Abul Mal Muhit
+    - name : Sensei Normand Théoret
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
-      designation : CEO/Founder
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : Ceinture noire, 5e dan
+      content : Je pratique les arts martiaux depuis l’âge de 11 ans.
+                Je suis cofondateur de l’école de karaté de Candiac et je suis responsable du développement de plus de 25 ceintures noires.
+                J'ai été élève de Daniel Alexander 6e dan, fondateur de l’académie Shorin-Ryu et de  Maxime Mazaltarim 7e dan, jadis du style européen Sankukai.
+                J'ai été plusieurs fois membre et capitaine de l’équipe de compétition de la rive sud de Montréal.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -18,13 +21,14 @@ team:
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        
+
     # team member loop
-    - name : Frank Miller
+    - name : Sensei Guillaume Larocque
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
-      designation : Manager
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : Ceinture noire, 4e dan
+      content : Depuis mes premiers cours de karaté à l'âge de 8 ans à l'école de karaté Candiac, je n'ai jamais cessé d'aimer et de pratiquer le karaté.
+                J'ai obtenu ma ceinture noire en 1993 et j'enseigne depuis.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -34,13 +38,15 @@ team:
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        
+
     # team member loop
-    - name : Michael Jonson
+    - name : Sensei Stephen Quiblat
       image_webp : images/team/team-3.webp
       image : images/team/team-3.jpg
-      designation : Web Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : Sikaran (ceinture noire, 3e Dan), Judo (ceinture brune), Shotokan (ceinture noire, 2e Dan ), Tae Kwon Do (ceinture noire, 1er Dan), Doce Pares (ceinture brune).
+      content : J'ai commencé les arts avec le club de mon frère aîné (Sinka Sikaran) à l'âge de 6 ans et depuis, je suis accro aux arts martiaux.
+                Piqué par la curiosité, j'ai aussi commencé à visiter l'école de mon cousin (Phoenix Martial Arts, une combinaison de Kung Fu et de style d'Okinawa).
+                J'ai ensuite joint l'école de Judo de mon autre frère (XU/Kodukan Judo club).
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -50,13 +56,19 @@ team:
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        
+
     # team member loop
-    - name : Mo. Kha. Alamgir
+    - name : Sensei Pierre Payant
       image_webp : images/team/team-4.webp
       image : images/team/team-4.jpg
-      designation : SEO Specialist
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : Ceinture noire, 2e dan
+      content : 1972- Initiation au karaté Sankukai au Cégep;
+                1974- Incursion à l'école de karaté de Daniel Alexanderà Brossard; Normand, entre-autre, m'enseigne!
+                1986- Ceinture brune en Ate-Waza Kan (dérivé de Shotokan);
+                1993- Ceinture noire en Kébékan (dérivé d'Aïkido et dekaraté traditionnel);
+                2003- Ceinture noire en Shotokan (école St-Philippe);
+                2004- 1er dan en Shotokan (école St-Philippe);
+                Depuis automne 2005 fait 2 jours/semaine à St-Philippeet 2 jours/semaine à Candiac.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -66,3 +78,41 @@ team:
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
+
+# team member loop
+    - name : Sensei Mélanie Rochon
+      image_webp : images/team/team-4.webp
+      image : images/team/team-4.jpg
+      designation : Ceinture noire, 2e dan
+      content : J'ai commencé à faire du karaté à l'âge de 9 ans en 1987, à l'école de karaté Candiac.
+                Alors que j'étais ceinture brune, je me suis inscrite dans une autre école de style Shotokan et depuis, je pratique les deux styles.
+                En 1997, j'ai commencé à enseigner et à partager ma passion et en 1999, j'ai obtenu ma ceinture noire. Depuis mes débuts, je n'ai jamais cessé
+                  la pratique du karaté, et je compte continuer le plus longtemps possible.
+                En plus de me donner une ceinture noire et une deuxième famille, le karaté m'a appris le dépassement de soi, la persévérance et le respect des autres.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+
+# team member loop
+    - name : Sensei Yannick Preziuso
+      image_webp : images/team/team-4.webp
+      image : images/team/team-4.jpg
+      designation : Ceinture noire, 1ere dan
+      content : J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+
+
