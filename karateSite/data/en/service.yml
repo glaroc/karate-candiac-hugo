@@ -4,31 +4,31 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : 5-7 years old
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : Wednesday 6:30 pm - 7:30 pm
+
     # service item loop
-    - name : Responsive Design
+    - name : 8-10 years old
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : Wednesday 6:30 pm - 7:30 pm
+
     # service item loop
-    - name : Media &amp; Advertisement
+    - name : 11-15 years old
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : Monday 6:30 pm - 7:30 pm
+
     # service item loop
-    - name : Graphic Design
+    - name : 16 years and above
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : Monday 7:30 pm - 9:00 pm
+
     # service item loop
-    - name : Apps Development
+    - name : Parent-Child
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : Monday 6:30 pm - 7:30 pm
+
     # service item loop
-    - name : Networking
+    - name : Improvement for all
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Wednesday 7:30 pm - 8:30 pm

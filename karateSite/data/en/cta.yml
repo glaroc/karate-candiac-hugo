@@ -1,10 +1,10 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  bg_image : "images/backgrounds/fond_kimono2.jpg"
+  bg_image_webp : "images/backgrounds/fond_kimono2.webp"
+  title : "Online Registration "
+  content : "Registration is online during the beginning of September on the 'Service des Loisirs de Candiac' website [ADD HYPERLINK MAYBE??]"
   button:
     enable : true
     label : "Start a project with us"

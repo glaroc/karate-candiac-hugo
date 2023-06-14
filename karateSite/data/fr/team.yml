@@ -4,7 +4,7 @@ team:
   title : Notre équipe de senseis
   team_member :
     # team member loop
-    - name : Tristan
+    - name : Abul Mal Muhit
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : CEO/Founder
