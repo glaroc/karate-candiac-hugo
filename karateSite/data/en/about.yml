@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Karate means
+  title : Karate means...
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : Experience

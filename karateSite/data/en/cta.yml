@@ -4,8 +4,8 @@ cta:
   bg_image : "images/backgrounds/fond_kimono2.jpg"
   bg_image_webp : "images/backgrounds/fond_kimono2.webp"
   title : "Online Registration "
-  content : "Registration is online during the beginning of September on the 'Service des Loisirs de Candiac' website [ADD HYPERLINK MAYBE??]"
+  content : "Registration is online during the beginning of September on the 'Service des Loisirs de Candiac' website"
   button:
     enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    label : "'Service des Loisirs' for the city of Candiac"
+    link : "https://candiac.ca/activites/loisirs"
