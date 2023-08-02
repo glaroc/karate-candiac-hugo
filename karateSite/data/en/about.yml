@@ -5,12 +5,12 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : Experience
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content :
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : Respect
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content :
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Adaptation
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content :

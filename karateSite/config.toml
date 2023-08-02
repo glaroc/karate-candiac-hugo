@@ -45,52 +45,34 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "Our School's History"
 pre = "#"
 url = "about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
+name = "Registration"
 pre = "#"
 url = "services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "Our Team"
 pre = "#"
 url = "portfolio"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
+name = "Styles and Techniques"
 pre = "#"
 url = "team"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "pricing"
+name = "Contact Us"
 pre = "#"
 url = "pricing"
 weight = 5
-
-[[Languages.en.menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
-
-[[Languages.en.menu.main]]
-name = "contact"
-pre = "#"
-url = "contact"
-weight = 7
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 
 
 ################### French Navigation ########################

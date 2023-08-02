@@ -9,4 +9,4 @@ banner:
   button:
     enable : true
     label : "Discover our School"
-    link : "#services"
+    link : "#about"

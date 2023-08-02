@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Our Schedule
   service_item :
     # service item loop
     - name : 5-7 years old

@@ -4,13 +4,13 @@ feature:
   image : images/backgrounds/IMG_8622.jpg
   image_webp : images/backgrounds/IMG_8622.webp
   title : Every Karateka Has Their Own Path
-  content : "text in between double quotes"
+  content : "text here"
   feature_item :
       # feature item loop
     - title : SEO Optimized
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
+      content : the 4 section titles could be something like --> Creatvitiy (explain in like 1 or 2 sentences that when we chain movements its an outlet to get creative with which movements)
+                next would be like
       # feature item loop
     - title : Easy Customization
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
