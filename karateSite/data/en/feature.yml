@@ -1,27 +1,29 @@
-############################# feature ###################################
+############################# feature ################################### contains information about karate, its meanings, etf. The linked image is the practitionners at the CRVP belt ceremony putting on their belts.
 feature:
   enable : true
   image : images/backgrounds/IMG_8622.jpg
   image_webp : images/backgrounds/IMG_8622.webp
-  title : Every Karateka Has Their Own Path
-  content : "text here"
+  title : Karate starts and ends with "rei" (bow)
+  content : Gichin Funakoshi
   feature_item :
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : the 4 section titles could be something like --> Creatvitiy (explain in like 1 or 2 sentences that when we chain movements its an outlet to get creative with which movements)
-                next would be like
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : The Origins of Karate
+      icon : ti-book # themify icon pack : https://themify.me/themify-icons
+      content : Based on the Dragon, the Tigre, the Praying Mantis, the Snake and the Crane, Kung-fu was one of the most popular martial arts. Then, on a Japanese Island called Okinawa, Karate was born...
+
+
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : The Meaning of Karate
+      icon : ti-split-h # themify icon pack : https://themify.me/themify-icons
+      content : "Karate is broken down into two parts: 'Kara', meaning empty, and 'Te', which means hand."
 
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Shorin-Ryu
+      icon : ti-search # themify icon pack : https://themify.me/themify-icons
+      content : "Directly translated, Shorin Ryu means 'The Style (ryu) of the pine forest (shorin)'. This is one of the multiple styles of karate."
+
+      # feature item loop
+    - title : Shotokan
+      icon : ti-search # themify icon pack : https://themify.me/themify-icons
+      content : Shotokan is yet another of the multiple styles of karate. It is somewhat of a child of Shorin-Ryu as it keeps some of its traditions through the presentation of techniques and katas.

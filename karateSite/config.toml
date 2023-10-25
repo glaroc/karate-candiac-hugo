@@ -65,7 +65,7 @@ weight = 3
 [[Languages.en.menu.main]]
 name = "Styles and Techniques"
 pre = "#"
-url = "team"
+url = "EN_team"
 weight = 4
 
 [[Languages.en.menu.main]]
@@ -73,7 +73,6 @@ name = "Contact Us"
 pre = "#"
 url = "pricing"
 weight = 5
-
 
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]

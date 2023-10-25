@@ -9,3 +9,8 @@ builds
 package-lock.json
 public
 resources
+
+karateSite\content\english\contact
+karateSite\content\english\history
+karateSite\content\english\registration
+karateSite\content\english\team
