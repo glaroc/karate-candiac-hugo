@@ -65,7 +65,7 @@ weight = 3
 [[Languages.en.menu.main]]
 name = "Styles and Techniques"
 pre = "#"
-url = "EN_team"
+url = "team"
 weight = 4
 
 [[Languages.en.menu.main]]

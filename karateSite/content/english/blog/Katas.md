@@ -7,6 +7,8 @@ author:
 description : "This is meta description"
 ---
 
+
+[TextHere] ()
 The main blog text goes here (if any)
 
 > This little green arrow make this look like this in the webpage
