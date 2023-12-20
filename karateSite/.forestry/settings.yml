@@ -6,6 +6,7 @@ webhook_url:
 sections:
 - type: heading
   label: Blog Post
+
 - type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
@@ -14,6 +15,7 @@ sections:
   new_doc_ext: '20191203072044'
   templates:
   - post
+
 - type: directory
   path: exampleSite/content/french/blog
   label: Post (fr)
@@ -21,6 +23,7 @@ sections:
   match: "**/*"
   templates:
   - post
+
 - type: heading
   label: Author
 - type: directory
@@ -57,6 +60,7 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
+
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
