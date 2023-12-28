@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="80mm"
+   viewBox="0 0 100 80"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="23.825047"
+       y="34.002663"
+       width="416.19711"
+       height="371.64136"
+       id="rect3224" />
+  </defs>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-11.732989,-4.4732162)"
+       id="text3222"
+       style="font-style:normal;font-weight:normal;font-size:85.3333px;line-height:0.95;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3224);fill:#ffffff;fill-opacity:1;stroke:none"
+       x="315.62488"
+       y="0"><tspan
+         x="67.92292"
+         y="110.50259"
+         id="tspan66431"><tspan
+           style="font-family:Karate;-inkscape-font-specification:Karate"
+           id="tspan66429">Ecole de </tspan></tspan><tspan
+         x="91.652077"
+         y="205.36988"
+         id="tspan66435"><tspan
+           style="font-family:Karate;-inkscape-font-specification:Karate"
+           id="tspan66433">karate </tspan></tspan><tspan
+         x="83.96458"
+         y="300.23718"
+         id="tspan66439"><tspan
+           style="font-family:Karate;-inkscape-font-specification:Karate"
+           id="tspan66437">Candiac</tspan></tspan></text>
+    <path
+       id="rect16300"
+       style="fill:#ffffff;stroke-width:0.218381"
+       d="m 14.998442,2.0262398 2.210915,1.2942192 -6.649015,2.4755689 c 1.631971,-1.1992829 2.721505,-2.5632365 4.4381,-3.7697881 z" />
+    <path
+       id="rect16300-4"
+       style="fill:#ffffff;stroke-width:0.218381"
+       d="m 82.664181,31.024569 2.27227,1.183186 -6.51831,2.801677 c 1.5706,-1.2786 2.59128,-2.694816 4.24604,-3.984863 z" />
+    <circle
+       style="fill:#bc002d;fill-opacity:1;stroke:none;stroke-width:0.364353;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path16999"
+       cx="61.110977"
+       cy="56.918484"
+       r="3.5" />
+  </g>
+</svg>
