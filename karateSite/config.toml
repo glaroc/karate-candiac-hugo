@@ -105,7 +105,7 @@ url = "blog"
 weight = 4
 
 [[Languages.fr.menu.main]]
-name = "contact"
+name = "Contact"
 pre = "#"
 url = "contact"
 weight = 7
