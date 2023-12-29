@@ -53,162 +53,65 @@ Pierre Payant
 
 ## TECHNIQUES DE MAINS ET DE BRAS
 
-| Nom japonais             |                                                                                                                                                          Description                                                                                                                                                           |
-| ------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Age-empi-uchi**        |                                                                                                          Coup de la pointe du coude de bas en haut à la verticale; aussi Tate-empi-uchi, Tate-hiji-ate (Ao moto waza)                                                                                                          |
-| **Atama-zuki**           |                                                                                                        Coup porté avec la tête Boshiken Coup porté avec le pouce serré et tendu le long du poing fermé; aussi Shito-ken                                                                                                        |
-| **Bukôtsu-nage**         |                                                                          Technique de projection au sol après un coup d'arrêt porté au haut du thorax et glissé à la gorge avec fourche de main (Kokô) "gueule du tigre" (Pinan yondan <sup>4e</sup>)                                                                          |
-| **Chûdan-uchi-uke**      |                                                                                                           Blocage (Uke) de l'intérieur vers l'extérieur (Uchi) au niveau moyen (Chûdan) (Kata sandan <sup>3e</sup>)                                                                                                            |
-| **Chûdan-soto-uke**      |                                                                                                                          Blocage de l'extérieur vers l'intérieur (Soto) au niveau moyen (Bassai dai)                                                                                                                           |
-| **Chûdan-yoko-uke**      |                                                                                                                                                  Blocage niveau moyen de côté                                                                                                                                                  |
-| **Dan-zuki**             |                                                                                                                                     Coups de poing en succession à des niveaux différents                                                                                                                                      |
-| **Fudo-ken-zuki**        |                                                                                   Coup de poing tenu verticalement, pouce vers le haut, base (éminence hypothénar) vers le bas, convient aux coups portés à mi-distance; aussi Tate-ken-zuki                                                                                   |
-| **Furi-zuki**            |                                                                                                                                         Coup de poing circulaire avec grande amplitude                                                                                                                                         |
-| **Gai-wan-uke**          |                                                                                                                        Blocage (Uke) du tranchant externe de l'avant-bras (Gai-wan) (Chairo moto waza)                                                                                                                         |
-| **Gedan-barai-uke**      |                                                                                                                             Blocage balayé (Barai) niveau bas (Gedan) (Kata shôdan 1<sup>er</sup>)                                                                                                                             |
-| **Gedan-kosa-zuki**      |                                                                                                                                Coups de poings descendants en croix (Pinan godan 5<sup>e</sup>)                                                                                                                                |
-| **Gedan-yoko-barai-uke** |                                                                                                                                  Blocage balayé niveau bas de côté (Yoko) (Midori moto waza)                                                                                                                                   |
-| **Gyaku-ken**            |                                                                                                      Coup de poing sans rotation, doigts vers le haut comme au départ à la ceinture, convient aux coups à courte distance                                                                                                      |
-| **Gyaku-zuki**           |                                                                                                                                       Coup de poing direct (du côté de la jambe arrière)                                                                                                                                       |
-| **Haishu-uchi**          |                                                                                          Coup porté avec le dos de la main ouverte, généralement de l'intérieur vers l'extérieur, visant le plexus, les côtes flottantes ou le dos                                                                                             |
-| **Haishu-uke**           |                                                                                                                     Blocage (Uke) du dos de la main ouverte, généralement de l'intérieur vers l'extérieur                                                                                                                      |
-| **Haitô**                | "Sabre de pouce", main ouverte, doigts allongés et en contact mais égèrement arqués pour plus de solidité, pouce plié et légèrement glissé sous la main, on utilise le tranchant interne de la main, allant de la base du pouce jusqu'à l'index. Pour frapper (Haitô-uchi) ou rarement pour bloquer (Haitô-uke) (Ao moto waza) |
-| **Heiko-zuki**           |                                                                                       Coup de poing double parallèle Hirabasami-uke Main en «gueule du tigre» pour coup à la gorge ou au flanc; aussi Kokô ou Toho (Pinan yondan \[4e\])                                                                                       |
-| **Hira-ken**             |                                                                                                                        Coup de poing demi fermé à plat (poing démon); aussi Nakadaka-ken (Ao moto waza)                                                                                                                        |
-| **Hirate-uchi**          |                                                                                                                                 Coup porté (Uchi) avec le plat ou paume (Hira) de la main (Te)                                                                                                                                 |
-| **Ippon-nukite**         |                                                                                                       Pique de main à un seul doigt (l'index) pour frapper des points vitaux précis: yeux, gorge, plexus (Ao moto waza)                                                                                                        |
-| **Jôdan-age-uke**        |                                                                                                                      Blocage (Uke) vers le haut (Age) au niveau haut (Jôdan) (Kata yondan 4<sup>e</sup>)                                                                                                                       |
-| **Juji-uke**             |                                                                                 Blocage avec les mains placées en croix (Juji), mains ouvertes (Kaishu-juji-uke) ou poings fermés (Ken-juji-uke). Aussi Hasami-uke (Pinan godan <sup>5e</sup>)                                                                                 |
-| **Kake-haitô-uke**       |                                                                                                                      Blocage crocheté (Kake) du "sabre de main" interne (Haitô) puis rotation du poignet                                                                                                                       |
-| **Kake-shuto-uke**       |                                                                                                         Blocage crocheté du "sabre de main" externe (Shuto) par lequel on saisit au contact le poignet de l'adversaire                                                                                                         |
-| **Kake-zuki**            |                                                                                                                           Coup de poing crocheté; aussi Kagi-zuki (Naihanchi shôdan 1<sup>er</sup>)                                                                                                                            |
-
-Kakie Mains collées ou poussée des mains avec l'adversaire
-
-Kakiwake-uke Blocage des deux bras croisés puis en écartant,
-généralement
-
-à hauteur moyenne, pour contrer une tentative de saisie
-
-frontale à deux mains au niveau des épaules
-
-Kakushi-zuki Coup de poing caché provenant de l'arrière (Pinan sandan
-\[3^e^\])
-
-Kakuto Coup (Kakuto-uchi) ou bloc (Kakuto-uke) du dos du poignet
-
-plié au maximum avec appel du poignet plié en sens inverse;
-
-aussi Koken-uchi et uke
-
-Keitô «Crête de coq», dessus du poignet plié vers le bas en Shutô
-
-pour bloquer (Keitô-uke) ou frapper (Keitô-uchi)
-
-Kokô-gamae Posture des mains disposées en "gueule du tigre" (Kokô) pour
-
-saisir simultanément la gorge et le bas-ventre
-
-Kôsa-gamae Double défense, un bras en position Gedan-barai-uke et
-
-l'autre en Chudan-uchi-uke; aussi Kôsa-uke (Pinan sandan \[3^e^\])
-
-Koshi-gamae Garde (Kamae) des deux poings retirés au niveau de la
-hanche,
-
-l'un placé au-dessus de l'autre (Pinan nidan \[2^e^\])
-
-Mae-empi-uchi Coup de coude circulaire vers l'avant (Mae) (Pinan yondan
-\[4^e^\])
-
-Manji-gamae Blocage haut arrière et bas avant simultanés (Pinan godan
-\[5^e^\])
-
-Morote Technique mobilisant les deux mains et bras
-
-Morote-uchi-uke Blocage double avec poing arrière qui vient renfocer au
-niveau
-
-du coude
-
-Morote-sokumen-zuki Coup de poing double latéral (Jôdan dans Midori moto
-waza)
-
-Morote-haitô-uchi-uke Haitô "sabre de main interne" et Shutô "sabre de
-main externe"
-
-exécutés simultanément à différents niveaux de face ou de côté
-
-Nakadaka-ippon-ken Coup de poing avec phalange du majeur en saillie,
-utilisé
-
-notamment pour frapper les points vitaux
-
-Nihon-nukite Pique de main à deux doigts, index et majeur,
-
-principalement aux yeux (Ao moto waza)
-
-Nukite Pique de main à quatre doigts tendus pour frapper des
-
-points vitaux ; aussi Yonhon-nukite (3e Forme)
-
-Oi-zuki Coup de poing direct (du côté de la jambe avancée)
-
-Osae-uke Blocage poussé
-
-Otoshi-empi-uchi Coup de la pointe du coude de haut en bas à la
-verticale
-
-(Ao moto waza)
-
-Ryôwan Technique mobilisant les deux bras
-
-Ryôwan-uke Blocage (Uke) des deux bras (Ryôwan) (Pinan nidan \[2^e^\])
-
-Ryôwan-sokumen-uke Blocage latéral (Sokumen) des deux bras (Gedan dans
-Midori moto waza)
-
-Ryuto-ken Coup de poing demi fermé avec premières phalanges pliées,
-
-nommé Tête de dragon
-
-Seiryuto Coup (Seiryuto-uchi) ou blocage (Seiryuto-uke), poignet
-
-fortement plié dans le plan du radius pour faire saillir la base du
-
-tranchant de la main (Shutô), en utilisant au moment de l'impact
-
-un puissant mouvement fouetté du poignet
-
-Shi-zuki Attaque avec la main disposée en «bec d'aigle» (Washide)
-
-Shutô "Sabre de main", main ouverte, doigts allongés et en contact
-
-mais légèrement arqués pour plus de solidité, pouce plié, on
-
-utilise le tranchant externe de la main. La main effectue une
-
-rotation sèche juste avant l'impact. Pour frapper (Shutô-uchi)
-
-ou bloquer (Shutô-uke) (Pinan nidan \[2e\])
-
-Shutô-osae-uke Blocage poussé (Osae) en Shutô (Bassai dai)
-
-Soe-uke Blocage double comme Morote-uke mais la main arrière vient
-
-renforcer en poussant à la base du poing du bras qui bloque en
-
-Uchi-uke
-
-Soto-uke Blocage du tranchant extérieur de l'avant-bras, de l'extérieur
-vers
-
-l'intérieur; aussi Soto-ude-uke
-
-Sukui-uke Blocage (Uke) en cuillère (Sukui) pour saisir l'attaque
-adverse,
-
-généralement un coup de pied à hauteur moyenne
+| Nom japonais              |                                                                                                                                                          Description                                                                                                                                                           |
+| ------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Age-empi-uchi**         |                                                                                                          Coup de la pointe du coude de bas en haut à la verticale; aussi Tate-empi-uchi, Tate-hiji-ate (Ao moto waza)                                                                                                          |
+| **Atama-zuki**            |                                                                                                        Coup porté avec la tête Boshiken Coup porté avec le pouce serré et tendu le long du poing fermé; aussi Shito-ken                                                                                                        |
+| **Bukôtsu-nage**          |                                                                          Technique de projection au sol après un coup d'arrêt porté au haut du thorax et glissé à la gorge avec fourche de main (Kokô) "gueule du tigre" (Pinan yondan <sup>4e</sup>)                                                                          |
+| **Chûdan-uchi-uke**       |                                                                                                           Blocage (Uke) de l'intérieur vers l'extérieur (Uchi) au niveau moyen (Chûdan) (Kata sandan <sup>3e</sup>)                                                                                                            |
+| **Chûdan-soto-uke**       |                                                                                                                          Blocage de l'extérieur vers l'intérieur (Soto) au niveau moyen (Bassai dai)                                                                                                                           |
+| **Chûdan-yoko-uke**       |                                                                                                                                                  Blocage niveau moyen de côté                                                                                                                                                  |
+| **Dan-zuki**              |                                                                                                                                     Coups de poing en succession à des niveaux différents                                                                                                                                      |
+| **Fudo-ken-zuki**         |                                                                                   Coup de poing tenu verticalement, pouce vers le haut, base (éminence hypothénar) vers le bas, convient aux coups portés à mi-distance; aussi Tate-ken-zuki                                                                                   |
+| **Furi-zuki**             |                                                                                                                                         Coup de poing circulaire avec grande amplitude                                                                                                                                         |
+| **Gai-wan-uke**           |                                                                                                                        Blocage (Uke) du tranchant externe de l'avant-bras (Gai-wan) (Chairo moto waza)                                                                                                                         |
+| **Gedan-barai-uke**       |                                                                                                                             Blocage balayé (Barai) niveau bas (Gedan) (Kata shôdan 1<sup>er</sup>)                                                                                                                             |
+| **Gedan-kosa-zuki**       |                                                                                                                                Coups de poings descendants en croix (Pinan godan 5<sup>e</sup>)                                                                                                                                |
+| **Gedan-yoko-barai-uke**  |                                                                                                                                  Blocage balayé niveau bas de côté (Yoko) (Midori moto waza)                                                                                                                                   |
+| **Gyaku-ken**             |                                                                                                      Coup de poing sans rotation, doigts vers le haut comme au départ à la ceinture, convient aux coups à courte distance                                                                                                      |
+| **Gyaku-zuki**            |                                                                                                                                       Coup de poing direct (du côté de la jambe arrière)                                                                                                                                       |
+| **Haishu-uchi**           |                                                                                          Coup porté avec le dos de la main ouverte, généralement de l'intérieur vers l'extérieur, visant le plexus, les côtes flottantes ou le dos                                                                                             |
+| **Haishu-uke**            |                                                                                                                     Blocage (Uke) du dos de la main ouverte, généralement de l'intérieur vers l'extérieur                                                                                                                      |
+| **Haitô**                 | "Sabre de pouce", main ouverte, doigts allongés et en contact mais égèrement arqués pour plus de solidité, pouce plié et légèrement glissé sous la main, on utilise le tranchant interne de la main, allant de la base du pouce jusqu'à l'index. Pour frapper (Haitô-uchi) ou rarement pour bloquer (Haitô-uke) (Ao moto waza) |
+| **Heiko-zuki**            |                                                                                       Coup de poing double parallèle Hirabasami-uke Main en «gueule du tigre» pour coup à la gorge ou au flanc; aussi Kokô ou Toho (Pinan yondan \[4e\])                                                                                       |
+| **Hira-ken**              |                                                                                                                        Coup de poing demi fermé à plat (poing démon); aussi Nakadaka-ken (Ao moto waza)                                                                                                                        |
+| **Hirate-uchi**           |                                                                                                                                 Coup porté (Uchi) avec le plat ou paume (Hira) de la main (Te)                                                                                                                                 |
+| **Ippon-nukite**          |                                                                                                       Pique de main à un seul doigt (l'index) pour frapper des points vitaux précis: yeux, gorge, plexus (Ao moto waza)                                                                                                        |
+| **Jôdan-age-uke**         |                                                                                                                      Blocage (Uke) vers le haut (Age) au niveau haut (Jôdan) (Kata yondan 4<sup>e</sup>)                                                                                                                       |
+| **Juji-uke**              |                                                                                 Blocage avec les mains placées en croix (Juji), mains ouvertes (Kaishu-juji-uke) ou poings fermés (Ken-juji-uke). Aussi Hasami-uke (Pinan godan <sup>5e</sup>)                                                                                 |
+| **Kake-haitô-uke**        |                                                                                                                      Blocage crocheté (Kake) du "sabre de main" interne (Haitô) puis rotation du poignet                                                                                                                       |
+| **Kake-shuto-uke**        |                                                                                                         Blocage crocheté du "sabre de main" externe (Shuto) par lequel on saisit au contact le poignet de l'adversaire                                                                                                         |
+| **Kake-zuki**             |                                                                                                                           Coup de poing crocheté; aussi Kagi-zuki (Naihanchi shôdan 1<sup>er</sup>)                                                                                                                            |
+| **Kakie**                 |                                                                                                                                      Mains collées ou poussée des mains avec l'adversaire                                                                                                                                      |
+| **Kakiwake-uke**          |                                     Blocage des deux bras croisés puis en écartant, généralement à hauteur moyenne, pour contrer une tentative de saisie frontale à deux mains au niveau des épaules Kakushi-zuki Coup de poing caché provenant de l'arrière (Pinan sandan 3<sup>e</sup>)                                      |
+| **Kakuto**                |                                                                                         Coup (Kakuto-uchi) ou bloc (Kakuto-uke) du dos du poignet plié au maximum avec appel du poignet plié en sens inverse; aussi Koken-uchi et uke                                                                                          |
+| **Keitô**                 |                                                                                                          «Crête de coq», dessus du poignet plié vers le bas en Shutô pour bloquer (Keitô-uke) ou frapper (Keitô-uchi)                                                                                                          |
+| **Kokô-gamae**            |                                                                                                          Posture des mains disposées en "gueule du tigre" (Kokô) pour saisir simultanément la gorge et le bas-ventre                                                                                                           |
+| **Kôsa-gamae**            |                                                                                                 Double défense, un bras en position Gedan-barai-uke et l'autre en Chudan-uchi-uke; aussi Kôsa-uke (Pinan sandan 3<sup>e</sup>)                                                                                                 |
+| **Koshi-gamae**           |                                                                                                   Garde (Kamae) des deux poings retirés au niveau de la hanche, l'un placé au-dessus de l'autre (Pinan nidan 2<sup>e</sup>)                                                                                                    |
+| **Mae-empi-uchi**         |                                                                                                                            Coup de coude circulaire vers l'avant (Mae) (Pinan yondan 4<sup>e</sup>)                                                                                                                            |
+| **Manji-gamae**           |                                                                                                                            Blocage haut arrière et bas avant simultanés (Pinan godan 5<sup>e</sup>)                                                                                                                            |
+| **Morote**                |                                                                                                                                          Technique mobilisant les deux mains et bras                                                                                                                                           |
+| **Morote-uchi-uke**       |                                                                                                                            Blocage double avec poing arrière qui vient renfocer au niveau du coude                                                                                                                             |
+| **Morote-sokumen-zuki**   |                                                                                                                                   Coup de poing double latéral (Jôdan dans Midori moto waza)                                                                                                                                   |
+| **Morote-haitô-uchi-uke** |                                                                                                 Haitô "sabre de main interne" et Shutô "sabre de main externe" exécutés simultanément à différents niveaux de face ou de côté                                                                                                  |
+| **Nakadaka-ippon-ken**    |                                                                                                               Coup de poing avec phalange du majeur en saillie, utilisé notamment pour frapper les points vitaux                                                                                                               |
+| **Nihon-nukite**          |                                                                                                                      Pique de main à deux doigts, index et majeur, principalement aux yeux (Ao moto waza)                                                                                                                      |
+| **Nukite**                |                                                                                                              Pique de main à quatre doigts tendus pour frapper des points vitaux ; aussi Yonhon-nukite (3e Forme)                                                                                                              |
+| **Oi-zuki**               |                                                                                                                                       Coup de poing direct (du côté de la jambe avancée)                                                                                                                                       |
+| **Osae-uke**              |                                                                                                                                                         Blocage poussé                                                                                                                                                         |
+| **Otoshi-empi-uchi**      |                                                                                                                            Coup de la pointe du coude de haut en bas à la verticale (Ao moto waza)                                                                                                                             |
+| **Ryôwan**                |                                                                                                                                               Technique mobilisant les deux bras                                                                                                                                               |
+| **Ryôwan-uke**            |                                                                                                                                Blocage (Uke) des deux bras (Ryôwan) (Pinan nidan 2<sup>e</sup>)                                                                                                                                |
+| **Ryôwan-sokumen-uke**    |                                                                                                                             Blocage latéral (Sokumen) des deux bras (Gedan dans Midori moto waza)                                                                                                                              |
+| **Ryuto-ken**             |                                                                                                                         Coup de poing demi fermé avec premières phalanges pliées, nommé Tête de dragon                                                                                                                         |
+| **Seiryuto**              |                                             Coup (Seiryuto-uchi) ou blocage (Seiryuto-uke), poignet fortement plié dans le plan du radius pour faire saillir la base du tranchant de la main (Shutô), en utilisant au moment de l'impact un puissant mouvement fouetté du poignet                                              |
+| **Shi-zuki**              |                                                                                                                                    Attaque avec la main disposée en «bec d'aigle» (Washide)                                                                                                                                    |
+| **Shutô**                 |           "Sabre de main", main ouverte, doigts allongés et en contact mais légèrement arqués pour plus de solidité, pouce plié, on utilise le tranchant externe de la main. La main effectue une rotation sèche juste avant l'impact. Pour frapper (Shutô-uchi) ou bloquer (Shutô-uke) (Pinan nidan 2<sup>e</sup>)            |
+| **Shutô-osae-uke**        |                                                                                                                                          Blocage poussé (Osae) en Shutô (Bassai dai)                                                                                                                                           |
+| **Soe-uke**               |                                                                                               Blocage double comme Morote-uke mais la main arrière vient renforcer en poussant à la base du poing du bras qui bloque en Uchi-uke                                                                                               |
+| **Soto-uke**              |                                                                                                              Blocage du tranchant extérieur de l'avant-bras, de l'extérieur vers l'intérieur; aussi Soto-ude-uke                                                                                                               |
+| **Sukui-uke**             |                                                                                                        Blocage (Uke) en cuillère (Sukui) pour saisir l'attaque adverse, généralement un coup de pied à hauteur moyenne                                                                                                         |
 
 Teishô Frappe directe (Teishô-zuki), frappe indirecte (Teishô-uchi) ou
 
