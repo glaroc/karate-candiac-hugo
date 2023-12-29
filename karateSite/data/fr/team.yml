@@ -4,10 +4,10 @@ team:
   title: Les Senseis
   team_member:
     # team member loop
-    - name: Sensei Normand Théoret
+    - name: Sensei (Soke) Normand Théoret
       image_webp: images/team/team-1.webp
       image: images/team/team-1.jpg
-      designation: Ceinture noire, 5e dan
+      designation: Ceinture noire, 5e dan. Maître fondateur de l'école.
       content: Je pratique les arts martiaux depuis l’âge de 11 ans.
         Je suis cofondateur de l’école de karaté de Candiac et je suis responsable du développement de plus de 25 ceintures noires.
         J'ai été élève de Daniel Alexander 6e dan, fondateur de l’académie Shorin-Ryu et de  Maxime Mazaltarim 7e dan, jadis du style européen Sankukai.
