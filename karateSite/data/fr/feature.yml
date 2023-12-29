@@ -9,19 +9,19 @@ feature:
     # feature item loop
     - title: Travail
       icon: bi bi-ladder # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content: La progression au karaté nécessite du travail physique et mental, récompensé par une amélioration de la forme et de l'estime de soi.
 
       # feature item loop
-    - title: Persévérance
+    - title: Forme physique
       icon: bi bi-person-arms-up # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content: Le karaté est un sport où souplesse, force, endurance et rapidité sont des atouts qu'on développe à chaque entraînement.
 
       # feature item loop
-    - title: Équipe
+    - title: Esprit d'équipe
       icon: bi bi-people-fill # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content: Le karaté est un sport vu comme solitaire, mais qui s'effectue dans une ambiane d'entraide et d'esprit d'équipe.
 
       # feature item loop
     - title: Plaisir
       icon: bi bi-balloon-heart # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content: Les fondements du karaté enseigné à notre école sont le plaisir de s'accomplir, d'apprendre et d'aller de l'avant.

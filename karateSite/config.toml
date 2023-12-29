@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "/fr"
+baseURL = ""
 title = "École de karaté Candiac"
 theme = "karate-candiac-hugo"
 themesDir = "../.."
