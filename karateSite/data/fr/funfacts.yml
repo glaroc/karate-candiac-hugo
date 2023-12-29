@@ -6,15 +6,15 @@ funfacts:
   counter_item:
     # counter item loop
     - title: "Ceintures noires formées"
-      icon: "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
+      icon: "bi bi-person-badge-fill" # themify icon pack : https://themify.me/themify-icons
       count: "108"
 
     # counter item loop
     - title: "Élèves formés"
-      icon: "ti-archive" # themify icon pack : https://themify.me/themify-icons
+      icon: "bi bi-award-fill" # themify icon pack : https://themify.me/themify-icons
       count: "2500"
 
     # counter item loop
     - title: "Années d'expérience"
-      icon: "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
+      icon: "bi bi-calendar3" # themify icon pack : https://themify.me/themify-icons
       count: "48"
