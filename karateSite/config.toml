@@ -153,7 +153,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2022"
+copyright = "Copyright &copy; 2024"
 
 ################################ France Language ########################
 [Languages.fr]
@@ -162,4 +162,9 @@ languageCode = "fr-ca"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
-copyright = "Copyright &copy; 2022"
+copyright = "Copyright &copy; 2024"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
