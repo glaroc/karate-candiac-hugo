@@ -49,6 +49,8 @@ Pierre Payant
 | **Yoi-dachi**          |                                                            Position naturelle debout avec poings devant à la hauteur de la ceinture. Pour notre école: position Kiba-dachi au lieu de naturelle debout                                                            |                                  50/50 |
 | **Zenkutsu-dachi**     |                                                                          Position vers l'avant, jambe arrière tendue, jambe avant fortement fléchie (90°), large écart frontal des pieds                                                                          |                                  40/60 |
 
+<br/><br/>
+
 ## TECHNIQUES DE MAINS ET DE BRAS
 
 | Nom japonais             |                                                                                                                                                          Description                                                                                                                                                           |

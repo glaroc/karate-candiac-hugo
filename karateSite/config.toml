@@ -26,6 +26,8 @@ link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700|Montserrat&display=swap"
 [[params.plugins.css]]
+link = "https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500&family=Roboto:ital,wght@0,400;0,500;0,700;1,700&display=swap"
+[[params.plugins.css]]
 link = "karateSite/static/css/style.css"
 
 # js plugins
@@ -111,6 +113,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
+
 logo = "images/logo.png"
 # Meta data
 description = "École de karaté Candiac"

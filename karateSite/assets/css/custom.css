@@ -3,6 +3,40 @@
   src: url("/fonts/Karate.ttf");
 }
 
+body {
+  color: #a2b6c8;
+  font-family: "Roboto", sans-serif;
+}
+
+body strong {
+  color: #b6cee2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  font-family: "Roboto", sans-serif;
+  color: #afbac4;
+  margin-bottom: 30px;
+}
+
+tbody tr td {
+  padding: 5px;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #2b2f35;
+}
+
+tbody tr td strong {
+  color: #bbb;
+  font-weight: 700;
+}
+
 .hero-area .block h1 {
   color: white;
   /*text-shadow: 2px 2px rgba(255,255,255,0.7);*/
