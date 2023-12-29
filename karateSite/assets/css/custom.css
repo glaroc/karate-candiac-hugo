@@ -24,6 +24,14 @@ h6 {
   margin-bottom: 30px;
 }
 
+.sub-title > h3 {
+  text-transform: none;
+}
+
+.post-block .content h3 {
+  text-transform: none;
+}
+
 tbody tr td {
   padding: 5px;
 }
@@ -46,15 +54,15 @@ tbody tr td strong {
 }
 
 .color {
-  color: #ff0c0c;
+  color: #bc002d;
 }
 
 .border-meghna:before {
-  background-color: #ff0c0c;
+  background-color: #bc002d;
 }
 
 .title h2 span {
-  color: #ff0c0c;
+  color: #bc002d;
 }
 
 .btn-main {
@@ -63,7 +71,7 @@ tbody tr td strong {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #750e0e;
+  background-color: #bc002d;
   border: 1px solid transparent;
   color: #fff;
 }

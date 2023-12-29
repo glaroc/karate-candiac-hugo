@@ -1,15 +1,14 @@
 ---
-title: "Katas et techniques"
+title: "Katas and techniques"
 image: images/Normand_kata.jpg
 author: John Doe
-description: "Vidéos et documents démontrant les katas et techniques enseignées à l'école de karaté Candiac."
-url: /fr/katas/
-weight: 1
+description: "This is meta description"
+url: /en/katas/
 ---
 
 <div>
           <div>
-            Sélectionnez un kata à visualiser ou voir la <a href="https://www.youtube.com/playlist?list=PLv1cdfh1vMbqOtu76bQnBYAd2CvArzg9T"­­ target="_blank">liste de lecture complète sur Youtube</a><br><br>
+            Select a kata to view the video or see the<a href="https://www.youtube.com/playlist?list=PLv1cdfh1vMbqOtu76bQnBYAd2CvArzg9T"­­ target="_blank">complete playlist on Youtube</a><br><br>
             <select id="videomenu">
             <option value="MGLl88TYl5w">1er kata</option>
             <option value="paWbNEikEMs">3e kata</option>
@@ -31,7 +30,7 @@ weight: 1
         </div>
         <div id="vidframe" style="width:800px;margin-top:20px;"></div>
 <br><br>
-<h2>Techniques enseignées à chaque niveau de ceinture (format PDF)</h2>
+<h2>Techniques that are taught for each belt (PDF)</h2>
 
 <table>
 <tbody>
@@ -39,7 +38,7 @@ weight: 1
 <td style="width: 21px; background-color: rgb(255, 255, 51);"></td>
 <td style="width: 359px;">
 <ul>
-<li><a class="linkbold" href="/pdf/TechniquesJaune.pdf">Programme ceinture jaune</a></li>
+<li><a class="linkbold" href="/pdf/TechniquesJaune.pdf">Yellow Belt Program</a></li>
 <li><a class="linkbold" href="/pdf/1erKata.pdf">1er
 kata</a></li>
 </ul>
@@ -49,7 +48,7 @@ kata</a></li>
 <td style="width: 21px; background-color: rgb(255, 153, 0);"></td>
 <td style="width: 359px;">
 <ul>
-<li><a class="linkbold" href="/pdf/TechniquesOrange.pdf">Programme ceinture orange</a></li>
+<li><a class="linkbold" href="/pdf/TechniquesOrange.pdf">Orange Belt Program</a></li>
 <li><a class="linkbold" href="/pdf/3-4-5Katas.pdf">3e, 4e et 5e kata</a></li>
 </ul>
 </td>
@@ -58,7 +57,7 @@ kata</a></li>
 <td style="width: 21px; background-color: rgb(100, 153, 68);"></td>
 <td style="width: 359px;">
 <ul>
-<li><a class="linkbold" href="/pdf/TechniquesVerte.pdf">Programme ceinture verte</a></li>
+<li><a class="linkbold" href="/pdf/TechniquesVerte.pdf">Green Belt Program</a></li>
 <li><a class="linkbold" href="/pdf/1ereForme.pdf">1ere forme</a></li>
 <li><a class="linkbold" href="/pdf/2eForme.pdf">2e
 forme</a></li>
@@ -71,7 +70,7 @@ forme</a></li>
 <td style="width: 21px; background-color: rgb(64, 64, 124);"></td>
 <td class="linkbold" style="width: 359px;">
 <ul>
-<li><a class="linkbold" href="/pdf/TechniquesBleue.pdf">Programme ceinture bleue</a></li>
+<li><a class="linkbold" href="/pdf/TechniquesBleue.pdf">Blue Belt Program</a></li>
 <li><a class="linkbold" href="/pdf/1erPinan.pdf">1er pinan</a></li>
 <li><a class="linkbold" href="/pdf/2ePinan.pdf">2e
 pinan</a></li><li><a class="linkbold" href="3ePinan.pdf">3e
@@ -83,7 +82,7 @@ pinan</a></li>
 <td style="width: 21px; background-color: rgb(128, 112, 77);"></td>
 <td class="linkbold" style="width: 359px;">
 <ul>
-<li><a class="linkbold" href="/pdf/TechniquesBrune.pdf">Programme ceinture brune</a></li>
+<li><a class="linkbold" href="/pdf/TechniquesBrune.pdf">Brown Belt Program</a></li>
 
 <li><a class="linkbold" href="/pdf/4ePinan.pdf">4e
 pinan</a></li>

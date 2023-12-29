@@ -49,31 +49,31 @@ link = "plugins/google-map/map.js"
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
 name = "Schedule"
-pre = "#"
-url = "service"
+pre = "en/#"
+url = "services"
 weight = 1
 
 [[Languages.en.menu.main]]
 name = "Registration"
-pre = "#"
-url = "services"
+pre = "en/#"
+url = "cta"
 weight = 2
 
 [[Languages.en.menu.main]]
 name = "Our Team"
-pre = "#"
+pre = "en/#"
 url = "portfolio"
 weight = 3
 
 [[Languages.en.menu.main]]
 name = "Styles and Techniques"
-pre = "#"
+pre = "en/#"
 url = "team"
 weight = 4
 
 [[Languages.en.menu.main]]
 name = "Contact Us"
-pre = "#"
+pre = "en/#"
 url = "pricing"
 weight = 5
 
