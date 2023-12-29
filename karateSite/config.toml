@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = ""
+baseURL = "/fr"
 title = "École de karaté Candiac"
 theme = "karate-candiac-hugo"
 themesDir = "../.."
@@ -11,6 +11,7 @@ summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
+defaultContentLanguage = "fr"
 
 ############################# Plugins ##########################
 # css plugins
@@ -44,7 +45,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
-[[Languages.fr.menu.main]]
+[[Languages.en.menu.main]]
 name = "Schedule"
 pre = "#"
 url = "service"
@@ -79,7 +80,7 @@ weight = 5
 [[Languages.fr.menu.main]]
 name = "Horaire"
 pre = "#"
-url = "service"
+url = "services"
 weight = 1
 
 
@@ -98,7 +99,7 @@ weight = 3
 [[Languages.fr.menu.main]]
 name = "Style et techniques"
 pre = "#"
-url = "portfolio"
+url = "blog"
 weight = 4
 
 [[Languages.fr.menu.main]]
@@ -117,7 +118,7 @@ author = "Themefisher"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
-post_share = true
+post_share = false
 
 # preloader
 [params.preloader]
@@ -151,7 +152,7 @@ link = "https://www.youtube.com/channel/UCqJ0vAr2dNees3X8OG0x5qw"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 copyright = "Copyright &copy; 2024"
 
@@ -160,7 +161,7 @@ copyright = "Copyright &copy; 2024"
 languageName = "Fr"
 languageCode = "fr-ca"
 contentDir = "content/french"
-weight = 2
+weight = 1
 home = "Accueil"
 copyright = "Copyright &copy; 2024"
 

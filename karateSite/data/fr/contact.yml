@@ -1,25 +1,24 @@
 ############################## Contact #############################
 contact:
-  enable : true
-  title : Contactez-nous
-  subtitle : 
-  content : Tous les cours se déroules à l'École Jean-Leman, à Candiac
+  enable: true
+  title: Contactez-nous
+  subtitle:
+  content: Tous les cours se déroulent à l'École Jean-Leman, à Candiac
 
   # Contact details
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "École Jean-Leman, Candiac"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: karatecandiac@gmail.com"
+    - icon: ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info: "École Jean-Leman, Candiac"
 
+    - icon: ti-email # themify icon pack : https://themify.me/themify-icons
+      info: "Email: karatecandiac@gmail.com"
 
   # Contact form
   contact_form:
-    enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "votre nom"
-    email : "Votre email"
-    subject : "Sujet"
-    message : "Message"
-    submit : "Soumettre"
+    enable: true
+    form_action: "#" #contact form works with https://formspree.io
+    name: "votre nom"
+    email: "Votre email"
+    subject: "Sujet"
+    message: "Message"
+    submit: "Soumettre"

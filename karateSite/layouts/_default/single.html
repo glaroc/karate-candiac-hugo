@@ -4,6 +4,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 offset-lg-2">
+        <div><h1>{{ .Title }}</h1></div>
         <div class="post-single-content">{{ .Content }}</div>
         {{ if site.Params.post_share }} {{ partial "post-share.html" . }} {{ end
         }}
