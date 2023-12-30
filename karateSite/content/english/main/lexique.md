@@ -313,29 +313,62 @@ Pierre Payant
 | **Za-rei**        |                                                                                                                                                                                                    Salut en position agenouillée (Seiza)                                                                                                                                                                                                    |
 | **Zazen**         |                                                                                                                                                                                                     Méditation en position agenouillée                                                                                                                                                                                                      |
 
-Ichi 1 Roku 6 Juichi 11 Ceinture Obi Bleue Ao
-Ni 2 Shichi 7 Juni 12 Blanche Shiro Marron Chairo
-San 3 Hachi 8 Niju 20 Jaune Kiiro Noire Kuro
-Shi 4 Ku 9 Nijuichi 21 Orange Orenjiiro
-Go 5 Ju 10 Sanju 30 Verte Midori
+## CHIFFRES
 
-Grades et niveaux des débutants (Mudansha):
+| Nom japonais | Chiffre |
+| ------------ | :-----: |
+| **Ichi**     |    1    |
+| **Ni**       |    2    |
+| **San**      |    3    |
+| **Shi**      |    4    |
+| **Go**       |    5    |
+| **Roku**     |    6    |
+| **Sichi**    |    7    |
+| **Hachi**    |    8    |
+| **Ku**       |    9    |
+| **Ju**       |   10    |
+| **Juichi**   |   11    |
+| **Juni**     |   12    |
+| **Niju**     |   20    |
+| **Nijuici**  |   21    |
+| **Sanju**    |   30    |
 
-(1^er^ groupe, 6^e^ à 4^e^ Kyu) 6^e^ Kyu: Blanche; 5^e^ Kyu: Jaune; 4^e^
-Kyu Orange;
+## COULEURS DE CENTURES
 
-(2^e^ groupe: 3^e^ à 1^er^Kyu) 3^e^ Kyu: Verte; 2^e^ Kyu: Bleue; 1^er^
-Kyu: Marron
+| Nom japonais  |   Couleur    |
+| ------------- | :----------: |
+| **Shiro**     |   blanche    |
+| **Kiiro**     |    jaune     |
+| **Orengiiro** |    orange    |
+| **Midori**    |    verte     |
+| **Ao**        |    bleue     |
+| **Chairo**    | marron/brune |
+| **Kuro**      |    noire     |
 
-Grades et niveaux des experts (Yudansha):
+## Grades et niveaux des débutants (Mudansha)
 
-1^er^ Dan: Étudiant; 2^e^ Dan: Disciple; 3^e^ Dan: Disciple confirmé;
-4^e^ Dan: Expert
+**1<sup>er</sup> groupe, 6<sup>e</sup> à 4<sup>e</sup> Kyu)**
+6<sup>e</sup> Kyu: Blanche;
+5<sup>e</sup> Kyu: Jaune;
+4<sup>e</sup> Kyu Orange;
 
-Grades et niveaux des maîtres (Kodansha):
+**2<sup>e</sup>groupe: 3<sup>e</sup> à 1<sup>er</sup> Kyu**
+3<sup>e</sup> Kyu: Verte;
+2<sup>e</sup>Kyu: Bleue;
+1<sup>e</sup> Kyu: Marron
 
-5^e^ et 6^e^ Dan: Renshi; 7^e^ et 8^e^ Dan: Kyoshi; 9^e^ et 10^e^ Dan:
-Hanshi, aussi Shi
+## Grades et niveaux des experts (Yudansha):
+
+1<sup>er</sup> Dan: Étudiant;
+2<sup>e</sup> Dan: Disciple;
+3<sup>e</sup> Dan: Disciple confirmé;
+4<sup>e</sup> Dan: Expert
+
+## Grades et niveaux des maîtres (Kodansha):
+
+5<sup>e</sup> et 6<sup>e</sup> Dan: Renshi;
+7<sup>e</sup> et 8<sup>e</sup> Dan: Kyoshi;
+9<sup>e</sup> et 10<sup>e</sup> Dan: Hanshi, aussi Shi
 
 ## RÉFÉRENCES
 
