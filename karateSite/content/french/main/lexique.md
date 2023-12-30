@@ -162,6 +162,8 @@ Pierre Payant
 | **Yoko-sashi-ashi**          |                                                                                                                                                                               Enjambement latéral (Pinan yondan 4<sup>e</sup>)                                                                                                                                                                               |
 | **Yoko-tobi-geri**           |                                                                                                                                                                                              Coup de pied sauté                                                                                                                                                                                              |
 
+<br/><br/>
+
 ## TERMES GÉNÉRAUX
 
 | Nom japonais      |                                                                                                                                                                                                                 Description                                                                                                                                                                                                                 |
@@ -314,6 +316,8 @@ Pierre Payant
 | **Za-rei**        |                                                                                                                                                                                                    Salut en position agenouillée (Seiza)                                                                                                                                                                                                    |
 | **Zazen**         |                                                                                                                                                                                                     Méditation en position agenouillée                                                                                                                                                                                                      |
 
+<br/><br/>
+
 ## CHIFFRES
 
 | Nom japonais | Chiffre |
@@ -334,7 +338,9 @@ Pierre Payant
 | **Nijuici**  |   21    |
 | **Sanju**    |   30    |
 
-## COULEURS
+<br/><br/>
+
+## COULEURS DE CENTURES
 
 | Nom japonais  |   Couleur    |
 | ------------- | :----------: |
@@ -346,29 +352,46 @@ Pierre Payant
 | **Chairo**    | marron/brune |
 | **Kuro**      |    noire     |
 
+<br/><br/>
+
 ## Grades et niveaux des débutants (Mudansha)
 
 **1<sup>er</sup> groupe, 6<sup>e</sup> à 4<sup>e</sup> Kyu)**
+
 6<sup>e</sup> Kyu: Blanche;
+
 5<sup>e</sup> Kyu: Jaune;
+
 4<sup>e</sup> Kyu Orange;
 
 **2<sup>e</sup>groupe: 3<sup>e</sup> à 1<sup>er</sup> Kyu**
+
 3<sup>e</sup> Kyu: Verte;
+
 2<sup>e</sup>Kyu: Bleue;
+
 1<sup>e</sup> Kyu: Marron
+
+<br/><br/>
 
 ## Grades et niveaux des experts (Yudansha):
 
 1<sup>er</sup> Dan: Étudiant;
+
 2<sup>e</sup> Dan: Disciple;
+
 3<sup>e</sup> Dan: Disciple confirmé;
+
 4<sup>e</sup> Dan: Expert
+
+<br/><br/>
 
 ## Grades et niveaux des maîtres (Kodansha):
 
 5<sup>e</sup> et 6<sup>e</sup> Dan: Renshi;
+
 7<sup>e</sup> et 8<sup>e</sup> Dan: Kyoshi;
+
 9<sup>e</sup> et 10<sup>e</sup> Dan: Hanshi, aussi Shi
 
 ## RÉFÉRENCES
