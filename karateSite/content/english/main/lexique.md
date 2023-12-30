@@ -392,6 +392,7 @@ Pierre Payant
 7<sup>e</sup> et 8<sup>e</sup> Dan: Kyoshi;
 
 9<sup>e</sup> et 10<sup>e</sup> Dan: Hanshi, aussi Shi
+<br/><br/><br/><br/>
 
 ## RÉFÉRENCES
 
