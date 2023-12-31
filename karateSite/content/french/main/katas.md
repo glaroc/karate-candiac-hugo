@@ -29,7 +29,7 @@ weight: 1
             </select>
             </div>
         </div>
-        <div id="vidframe" style="width:800px;margin-top:20px;"></div>
+        <div id="vidframe" style="margin-top:20px;"></div>
 <br><br>
 <h2>Techniques enseignées à chaque niveau de ceinture (format PDF)</h2>
 

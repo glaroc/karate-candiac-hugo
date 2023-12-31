@@ -102,3 +102,8 @@ tbody tr td strong {
 .member-photo .mask {
   background-color: rgba(255, 209, 121, 0.7);
 }
+
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}

@@ -28,7 +28,7 @@ url: /en/katas/
             </select>
             </div>
         </div>
-        <div id="vidframe" style="width:800px;margin-top:20px;"></div>
+               <div id="vidframe" style="margin-top:20px;"></div>
 <br><br>
 <h2>Techniques that are taught for each belt (PDF)</h2>
 

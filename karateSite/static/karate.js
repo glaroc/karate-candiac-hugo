@@ -9,8 +9,8 @@ $(document).ready(function () {
 
 const to_url = function (id) {
   return (
-    '<iframe width="800" height="450" src="http://www.youtube.com/embed/' +
+    '<iframe class="youtube-video" src="https://www.youtube.com/embed/' +
     id +
-    '" frameborder="0" allowfullscreen></iframe>'
+    '" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
   );
 };
