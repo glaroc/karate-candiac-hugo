@@ -2,7 +2,7 @@
 title: "Katas et techniques"
 image: images/Normand_kata.jpg
 author: John Doe
-description: "Vidéos et documents démontrant les katas et techniques enseignées à l'école de karaté Candiac."
+description: "Vidéos et documents démontrant les katas et techniques enseignés à l'école de karaté Candiac."
 url: /fr/katas/
 weight: 1
 ---

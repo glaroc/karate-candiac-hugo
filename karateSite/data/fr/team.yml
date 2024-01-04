@@ -37,13 +37,7 @@ team:
       image_webp: images/team/team-4.webp
       image: images/team/team-4.jpg
       designation: Ceinture noire, 2e dan
-      content: 1972- Initiation au karaté Sankukai au Cégep;
-        1974- Incursion à l'école de karaté de Daniel Alexanderà Brossard; Normand, entre-autre, m'enseigne!
-        1986- Ceinture brune en Ate-Waza Kan (dérivé de Shotokan);
-        1993- Ceinture noire en Kébékan (dérivé d'Aïkido et dekaraté traditionnel);
-        2003- Ceinture noire en Shotokan (école St-Philippe);
-        2004- 1er dan en Shotokan (école St-Philippe);
-        Depuis automne 2005 fait 2 jours/semaine à St-Philippeet 2 jours/semaine à Candiac.
+      content: "Je me suis initié au karaté en Sankukai (1972). Par la suite: ceinture brune, Ate-Waza Kan (1986); ceinture noire, Kebeckan (1993); ceinture noire, Shotokan (2003), 1er Dan (2004); 1er Dan reconnu par l'École Candiac (2007); 2e Dan décerné par l'École (2011). Motivé par des collègues uniques, je continuerai ma pratique aussi longtemps que la santé me le permettra."
 
     # team member loop
     - name: Sensei Mélanie Rochon
@@ -63,6 +57,13 @@ team:
       image: images/team/team-4.jpg
       designation: Ceinture noire, 1ere dan
       content: J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
+
+    # team member loop
+    - name: Sensei Daniel Tilli
+      image_webp: images/team/team-4.webp
+      image: images/team/team-4.jpg
+      designation: Ceinture noire, 1ere dan
+      content: From an early age, I've been very active, starting karate at the age of 6 with sensei Normand Théoret, and practising relentlessly until I obtained my black belt in 1997. A few years later, life led me to take up other sports on a regular basis (climbing, running, road biking, cross-country skiing), and with full-time studies and work, I took a 17-year break. I've been back for several years now, and it motivates me to see the young people and adults who come back year after year with the same motivation I have for this great sport and lifestyle.
 
     # team member loop
     - name: Sensei François Martel
