@@ -18,9 +18,7 @@ team:
       image_webp: images/team/team-2.webp
       image: images/team/team-2.jpg
       designation: Ceinture noire, 4e dan
-      content:
-        Depuis mes premiers cours de karaté à l'âge de 8 ans à l'école de karaté Candiac, je n'ai jamais cessé d'aimer et de pratiquer le karaté.
-        J'ai obtenu ma ceinture noire en 1993 et j'enseigne depuis.
+      content: Depuis mes premiers cours de karaté à l'âge de 8 ans à l'école de karaté Candiac, je n'ai jamais cessé d'aimer et de pratiquer le karaté. J'ai obtenu ma ceinture noire en 1993 et j'enseigne depuis.
 
     # team member loop
     - name: Sensei Stephen Quiblat
@@ -29,8 +27,7 @@ team:
       designation: Sikaran (ceinture noire, 3e Dan), Judo (ceinture brune), Shotokan (ceinture noire, 2e Dan ), Tae Kwon Do (ceinture noire, 1er Dan), Doce Pares (ceinture brune).
       content:
         J'ai commencé les arts avec le club de mon frère aîné (Sinka Sikaran) à l'âge de 6 ans et depuis, je suis accro aux arts martiaux.
-        Piqué par la curiosité, j'ai aussi commencé à visiter l'école de mon cousin (Phoenix Martial Arts, une combinaison de Kung Fu et de style d'Okinawa).
-        J'ai ensuite joint l'école de Judo de mon autre frère (XU/Kodukan Judo club).
+        Piqué par la curiosité, j'ai aussi commencé à visiter l'école de mon cousin (Phoenix Martial Arts, une combinaison de Kung Fu et de style d'Okinawa). J'ai ensuite joint l'école de Judo de mon autre frère (XU/Kodukan Judo club).
 
     # team member loop
     - name: Sensei Pierre Payant
@@ -46,10 +43,7 @@ team:
       designation: Black belt, 3rd dan
       content:
         J'ai commencé à faire du karaté à l'âge de 9 ans en 1987, à l'école de karaté Candiac.
-        Alors que j'étais ceinture brune, je me suis inscrite dans une autre école de style Shotokan et depuis, je pratique les deux styles.
-        En 1997, j'ai commencé à enseigner et à partager ma passion et en 1999, j'ai obtenu ma ceinture noire. Depuis mes débuts, je n'ai jamais cessé
-        la pratique du karaté, et je compte continuer le plus longtemps possible.
-        En plus de me donner une ceinture noire et une deuxième famille, le karaté m'a appris le dépassement de soi, la persévérance et le respect des autres.
+        Alors que j'étais ceinture brune, je me suis inscrite dans une autre école de style Shotokan et depuis, je pratique les deux styles. En 1997, j'ai commencé à enseigner et à partager ma passion et en 1999, j'ai obtenu ma ceinture noire. Depuis mes débuts, je n'ai jamais cessé la pratique du karaté, et je compte continuer le plus longtemps possible. En plus de me donner une ceinture noire et une deuxième famille, le karaté m'a appris le dépassement de soi, la persévérance et le respect des autres.
 
     # team member loop
     - name: Sensei Yannick Preziuso

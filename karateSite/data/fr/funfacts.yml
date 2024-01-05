@@ -7,14 +7,14 @@ funfacts:
     # counter item loop
     - title: "Ceintures noires formées"
       icon: "bi bi-person-badge-fill" # themify icon pack : https://themify.me/themify-icons
-      count: "108"
+      count: 40
 
     # counter item loop
     - title: "Élèves formés"
       icon: "bi bi-award-fill" # themify icon pack : https://themify.me/themify-icons
-      count: "2500"
+      count: 2500
 
     # counter item loop
     - title: "Années d'expérience"
       icon: "bi bi-calendar3" # themify icon pack : https://themify.me/themify-icons
-      count: "48"
+      count: 48
