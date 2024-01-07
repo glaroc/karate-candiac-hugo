@@ -24,6 +24,20 @@ h6 {
   margin-bottom: 30px;
 }
 
+.dark-title {
+  color: #58606a;
+  margin-bottom: 20px;
+}
+
+.yellow {
+  color: #ffd179;
+  margin-bottom: 10px;
+}
+
+.member-meta span {
+  font-weight: bold;
+}
+
 .navbar-brand {
   margin-right: 0;
 }
@@ -123,4 +137,12 @@ img[src$="#center"] {
 .youtube-video {
   aspect-ratio: 16 / 9;
   width: 100%;
+}
+
+.annonces {
+  text-align: center;
+}
+
+.annonces-row {
+  justify-content: center;
 }

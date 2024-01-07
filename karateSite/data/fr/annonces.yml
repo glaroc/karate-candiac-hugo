@@ -1,0 +1,7 @@
+############################# annonces ###################################
+annonces:
+  enable: true
+  title: Annonces
+  items:
+    - title: Reprise des cours
+      content: Les cours reprennent le 15 janvier 2024.
