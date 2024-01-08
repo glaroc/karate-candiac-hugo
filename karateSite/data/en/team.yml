@@ -64,7 +64,7 @@ team:
       image_webp: images/team/team-4.webp
       image: images/team/team-4.jpg
       designation: Ceinture noire, 1ere dan
-      content: J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
+      content: "I've loved martial arts since I was very young. I practised judo for several years until I obtained my blue belt. In 2002, my son and I signed up for karate at the town of Candiac in the parent-child group. I then continued with the adult group until I obtained my black belt. I really like the philosophy of our school; a more traditional style that promotes the values of respect and perseverance. Our master (Normand Théoret) and all the other Senseis have a passion for their art, which pushes us to surpass ourselves. The spirit of camaraderie is another reason why I'm still with the school after more than 20 years. My job: I'm a doctor. Other sports: badminton and jogging."
 
     # team member loop
     - name: Sensei Elie Francis

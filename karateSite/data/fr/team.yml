@@ -44,12 +44,7 @@ team:
       image_webp: images/team/team-4.webp
       image: images/team/team-4.jpg
       designation: Ceinture noire, 2e dan
-      content:
-        J'ai commencé à faire du karaté à l'âge de 9 ans en 1987, à l'école de karaté Candiac.
-        Alors que j'étais ceinture brune, je me suis inscrite dans une autre école de style Shotokan et depuis, je pratique les deux styles.
-        En 1997, j'ai commencé à enseigner et à partager ma passion et en 1999, j'ai obtenu ma ceinture noire. Depuis mes débuts, je n'ai jamais cessé
-        la pratique du karaté, et je compte continuer le plus longtemps possible.
-        En plus de me donner une ceinture noire et une deuxième famille, le karaté m'a appris le dépassement de soi, la persévérance et le respect des autres.
+      content: "J'ai commencé à faire du karaté à l'âge de 9 ans en 1987, à l'école de karaté Candiac. Alors que j'étais ceinture brune, je me suis inscrite dans une autre école de style Shotokan et depuis, je pratique les deux styles. En 1997, j'ai commencé à enseigner et à partager ma passion et en 1999, j'ai obtenu ma ceinture noire. Depuis mes débuts, je n'ai jamais cessé la pratique du karaté, et je compte continuer le plus longtemps possible. En plus de me donner une ceinture noire et une deuxième famille, le karaté m'a appris le dépassement de soi, la persévérance et le respect des autres."
 
     # team member loop
     - name: Sensei Yannick Preziuso
@@ -63,14 +58,14 @@ team:
       image_webp: images/team/team-4.webp
       image: images/team/team-4.jpg
       designation: Ceinture noire, 1ere dan
-      content: From an early age, I've been very active, starting karate at the age of 6 with sensei Normand Théoret, and practising relentlessly until I obtained my black belt in 1997. A few years later, life led me to take up other sports on a regular basis (climbing, running, road biking, cross-country skiing), and with full-time studies and work, I took a 17-year break. I've been back for several years now, and it motivates me to see the young people and adults who come back year after year with the same motivation I have for this great sport and lifestyle.
+      content: Depuis mon plus jeune âge, j'ai été très actif, j'ai commencé le karaté à l'âge de 6 ans avec sensei Normand Théoret, et je l'ai pratiqué sans relâche jusqu'à l'obtention de ma ceinture noire en 1997. Quelques années plus tard la vie m’a amené à faire d’autres sports sur une base régulière (escalade, course à pied, vélo de route, ski de fond), ainsi que les études et travail à temps plein, j’ai fait une pause de 17 ans. De retour depuis plusieurs années déjà, je me motive à voir les jeunes et adultes qui reviennent année après année avec la même motivation que j'ai pour ce beau sport et style de vie.
 
     # team member loop
     - name: Sensei François Martel
       image_webp: images/team/team-4.webp
       image: images/team/team-4.jpg
       designation: Ceinture noire, 1ere dan
-      content: J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
+      content: "Mon parcours: j'aime les arts martiaux depuis mon jeune âge. J'ai pratiqué le judo pendant plusieurs années jusqu'à ma ceinture bleue. En 2002, je me suis inscrit avec mon fils au karaté à la ville de Candiac dans le groupe parent-enfant. J'ai ensuite continué avec le groupe des adultes jusqu'à ma ceinture noire. J’aime beaucoup la philosophie de notre école; un style plus traditionnel qui prône des valeurs de respect et de persévérance. Notre maître (Normand Théoret) ainsi que tous les autres Senseis ont une passion pour leur art, ce qui nous pousse à nous dépasser. L'esprit de camaraderie qui y règne est une autre raison pour laquelle je suis toujours avec cette école après plus de 20 ans. Mon travail: je suis médecin. Autres sports: le badminton et le jogging."
 
     # team member loop
     - name: Sensei Elie Francis

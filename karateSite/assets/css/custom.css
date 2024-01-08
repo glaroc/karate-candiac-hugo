@@ -146,3 +146,7 @@ img[src$="#center"] {
 .annonces-row {
   justify-content: center;
 }
+
+.annonces-items {
+  margin-bottom: 30px;
+}
