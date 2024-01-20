@@ -3,14 +3,14 @@ about:
   enable: true
   title: Karaté Candiac c'est...
   about_item:
-    - icon: ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    - icon: bi bi-calendar2-heart # themify icon pack : https://themify.me/themify-icons
       title: Expérience
-      content: L'école de karaté Candiac offre des cours aux enfants et adultes depuis 1975. La philosophie de l'école de karaté de Candiac a beaucoup évolué avec les années et elle a su avec le temps s'adapter aux réels besoins des jeunes d'aujourd'hui.
+      content: The Candiac karate school has been offering courses to children and adults since 1975. The philosophy of the Candiac karate school has evolved over the years, adapting to the real needs of today's youth.
 
     - icon: ti-cup # themify icon pack : https://themify.me/themify-icons
       title: Respect
-      content: Le karaté à Candiac est enseigné comme un sport, une discipline, un mode de vie où règnent le respect et le désir de se surpasser. Les principes de discipline, de contrôle, de dépassement et de respect qui sont à la base du karaté sont universels et s'appliquent dans tous les aspects de la vie.
+      content: Karate at Candiac is taught as a sport, a discipline, and a way of life where respect and the desire to surpass oneself reign. The principles of discipline, control, self-improvement and respect that form the basis of karate are universal and apply to all aspects of life.
 
     - icon: ti-thought # themify icon pack : https://themify.me/themify-icons
       title: Adaptation
-      content: Le karaté est un sport et un art qui permet à chacun d'évoluer en fonction de ses capacités et de ses ambitions. À quatre ou à 74 ans, chacun peut aller chercher dans le karaté quelque chose d'unique et différent.
+      content: Karate is a sport and an art that allows everyone to develop according to their abilities and ambitions. Whether you're four or 74, you can find something unique and challenging in karate.

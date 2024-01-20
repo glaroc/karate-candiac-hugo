@@ -5,8 +5,7 @@ team:
   team_member:
     # team member loop
     - name: Sensei (Soke) Normand Théoret
-      image_webp: images/team/team-1.webp
-      image: images/team/team-1.jpg
+      image: images/senseis/Normand.jpg
       designation: Ceinture noire, 5e dan. Maître fondateur de l'école.
       content: Je pratique les arts martiaux depuis l’âge de 11 ans.
         Je suis cofondateur de l’école de karaté de Candiac et je suis responsable du développement de plus de 25 ceintures noires.
@@ -15,17 +14,15 @@ team:
 
     # team member loop
     - name: Sensei Guillaume Larocque
-      image_webp: images/team/team-2.webp
-      image: images/team/team-2.jpg
-      designation: Ceinture noire, 4e dan
+      image: images/senseis/Guillaume.jpg
+      designation: Ceinture noire, 4e dan. Responsable de l'école.
       content:
         Depuis mes premiers cours de karaté à l'âge de 8 ans à l'école de karaté Candiac, je n'ai jamais cessé d'aimer et de pratiquer le karaté.
-        J'ai obtenu ma ceinture noire en 1993 et j'enseigne depuis.
+        J'ai obtenu ma ceinture noire en 1993 et j'enseigne depuis. Professionnellement, je travaille en science de la biodiversité et éco-informatique.
 
     # team member loop
     - name: Sensei Stephen Quiblat
-      image_webp: images/team/team-3.webp
-      image: images/team/team-3.jpg
+      image: images/senseis/Stephen.jpg
       designation: Sikaran (ceinture noire, 3e Dan), Judo (ceinture brune), Shotokan (ceinture noire, 2e Dan ), Tae Kwon Do (ceinture noire, 1er Dan), Doce Pares (ceinture brune).
       content:
         J'ai commencé les arts avec le club de mon frère aîné (Sinka Sikaran) à l'âge de 6 ans et depuis, je suis accro aux arts martiaux.
@@ -34,56 +31,54 @@ team:
 
     # team member loop
     - name: Sensei Pierre Payant
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
+      image: images/senseis/Pierre.jpg
       designation: Ceinture noire, 2e dan
       content: "Je me suis initié au karaté en Sankukai (1972). Par la suite: ceinture brune, Ate-Waza Kan (1986); ceinture noire, Kebeckan (1993); ceinture noire, Shotokan (2003), 1er Dan (2004); 1er Dan reconnu par l'École Candiac (2007); 2e Dan décerné par l'École (2011). Motivé par des collègues uniques, je continuerai ma pratique aussi longtemps que la santé me le permettra."
 
     # team member loop
     - name: Sensei Mélanie Rochon
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
-      designation: Ceinture noire, 2e dan
+      image: images/senseis/Melanie.jpg
+      designation: Ceinture noire, 3e dan
       content: "J'ai commencé à faire du karaté à l'âge de 9 ans en 1987, à l'école de karaté Candiac. Alors que j'étais ceinture brune, je me suis inscrite dans une autre école de style Shotokan et depuis, je pratique les deux styles. En 1997, j'ai commencé à enseigner et à partager ma passion et en 1999, j'ai obtenu ma ceinture noire. Depuis mes débuts, je n'ai jamais cessé la pratique du karaté, et je compte continuer le plus longtemps possible. En plus de me donner une ceinture noire et une deuxième famille, le karaté m'a appris le dépassement de soi, la persévérance et le respect des autres."
 
     # team member loop
     - name: Sensei Yannick Preziuso
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
+      image: images/senseis/Yannick.jpg
       designation: Ceinture noire, 1ere dan
       content: J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
 
     # team member loop
     - name: Sensei Daniel Tilli
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
+      image: images/senseis/Daniel.jpg
       designation: Ceinture noire, 1ere dan
       content: Depuis mon plus jeune âge, j'ai été très actif, j'ai commencé le karaté à l'âge de 6 ans avec sensei Normand Théoret, et je l'ai pratiqué sans relâche jusqu'à l'obtention de ma ceinture noire en 1997. Quelques années plus tard la vie m’a amené à faire d’autres sports sur une base régulière (escalade, course à pied, vélo de route, ski de fond), ainsi que les études et travail à temps plein, j’ai fait une pause de 17 ans. De retour depuis plusieurs années déjà, je me motive à voir les jeunes et adultes qui reviennent année après année avec la même motivation que j'ai pour ce beau sport et style de vie.
 
     # team member loop
     - name: Sensei François Martel
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
+      image: images/senseis/Francois.jpg
       designation: Ceinture noire, 1ere dan
-      content: "Mon parcours: j'aime les arts martiaux depuis mon jeune âge. J'ai pratiqué le judo pendant plusieurs années jusqu'à ma ceinture bleue. En 2002, je me suis inscrit avec mon fils au karaté à la ville de Candiac dans le groupe parent-enfant. J'ai ensuite continué avec le groupe des adultes jusqu'à ma ceinture noire. J’aime beaucoup la philosophie de notre école; un style plus traditionnel qui prône des valeurs de respect et de persévérance. Notre maître (Normand Théoret) ainsi que tous les autres Senseis ont une passion pour leur art, ce qui nous pousse à nous dépasser. L'esprit de camaraderie qui y règne est une autre raison pour laquelle je suis toujours avec cette école après plus de 20 ans. Mon travail: je suis médecin. Autres sports: le badminton et le jogging."
+      content: "J'aime les arts martiaux depuis mon jeune âge. J'ai pratiqué le judo pendant plusieurs années jusqu'à ma ceinture bleue. En 2002, je me suis inscrit avec mon fils au karaté à la ville de Candiac dans le groupe parent-enfant. J'ai ensuite continué avec le groupe des adultes jusqu'à ma ceinture noire. J’aime beaucoup la philosophie de notre école; un style plus traditionnel qui prône des valeurs de respect et de persévérance. Notre maître (Normand Théoret) ainsi que tous les autres Senseis ont une passion pour leur art, ce qui nous pousse à nous dépasser. L'esprit de camaraderie qui y règne est une autre raison pour laquelle je suis toujours avec cette école après plus de 20 ans. Mon travail: je suis médecin. Autres sports: le badminton et le jogging."
+
+    # team member loop
+    - name: Sensei Stefan Savaria
+      image: images/senseis/Stefan.jpg
+      designation: Ceinture noire, 1ere dan
+      content:
 
     # team member loop
     - name: Sensei Elie Francis
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
+      image: images/senseis/Elie.jpg
       designation: Ceinture noire, 1ere dan
-      content: J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
+      content:
 
     # team member loop
     - name: Senpai Marie-Hélène Fortin
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
+      image: images/senseis/Marie-Hélène.jpg
       designation: Ceinture brune
-      content: J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
+      content: J'ai décidé de m'inscrire aux cours de karaté avec la ville de Candiac dans le but de me remettre en forme à la suite de mes grossesses. Ça fait déjà un peu plus de 11 ans que je continue à pratiquer cet art avec toujours beaucoup de plaisir. Jamais je n'aurais pu penser que j'allais obtenir un jour une ceinture brune! Je suis vraiment fière du parcours que j'ai fait. Les senseis et les autres karatékas m'ont tous soutenu et encouragé durant ce parcours. En plus de contribuer à mon bien-être physique et mental, le karaté a un effet positif sur ma confiance et me permet de me dépasser. Aujourd'hui, je poursuis mon développement en partageant à mon tour les techniques qui m'ont été enseignées tout en continuant à les peaufiner moi-même!
 
     # team member loop
     - name: Senpai Tristan Francis
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
+      image: images/senseis/Tristan.jpg
       designation: Ceinture brune
-      content: J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
+      content:

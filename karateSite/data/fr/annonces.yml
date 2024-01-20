@@ -1,6 +1,6 @@
 ############################# annonces ###################################
 annonces:
-  enable: true
+  enable: false
   title: Annonces
   items:
     - title: Reprise des cours

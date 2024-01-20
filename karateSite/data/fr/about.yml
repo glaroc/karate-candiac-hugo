@@ -3,7 +3,7 @@ about:
   enable: true
   title: Karaté Candiac c'est...
   about_item:
-    - icon: bi bi-calendar2-heart # themify icon pack : https://themify.me/themify-icons
+    - icon: ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
       title: Expérience
       content: L'école de karaté Candiac offre des cours aux enfants et adultes depuis 1975. La philosophie de l'école de karaté de Candiac a beaucoup évolué avec les années et elle a su avec le temps s'adapter aux réels besoins des jeunes d'aujourd'hui.
 

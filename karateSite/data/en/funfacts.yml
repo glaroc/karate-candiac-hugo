@@ -1,20 +1,20 @@
 ################################# funfacts ##################################
 funfacts:
-  enable : true
-  bg_image : "images/backgrounds/fond_kimono.jpg"
-  bg_image_webp : "images/backgrounds/fond_kimono.webp"
+  enable: true
+  bg_image: "images/backgrounds/fond_kimono.jpg"
+  bg_image_webp: "images/backgrounds/fond_kimono.webp"
   counter_item:
     # counter item loop
-    - title : "Total Black Belts Taught"
-      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "108"
+    - title: "Black Belts Taught"
+      icon: "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
+      count: 40
 
     # counter item loop
-    - title : "Total Students Taught"
-      icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "5000"
+    - title: "Students Taught"
+      icon: "ti-archive" # themify icon pack : https://themify.me/themify-icons
+      count: 2500
 
     # counter item loop
-    - title : "Total Years of Experience"
-      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "45"
+    - title: "Years of Experience"
+      icon: "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
+      count: 45

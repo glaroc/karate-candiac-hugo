@@ -2,7 +2,7 @@
 title: "Histoire de l'école de karaté Candiac"
 image: images/1981Fr1b.jpg
 author: John Doe
-description: "This is meta description"
+description: "Bref historique de l'école depuis ses débuts en 1975."
 url: /en/school_history/
 ---
 

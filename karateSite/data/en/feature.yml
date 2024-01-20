@@ -1,29 +1,27 @@
 ############################# feature ################################### contains information about karate, its meanings, etf. The linked image is the practitionners at the CRVP belt ceremony putting on their belts.
 feature:
-  enable : true
-  image : images/backgrounds/IMG_8622.jpg
-  image_webp : images/backgrounds/IMG_8622.webp
-  title : Karate starts and ends with "rei" (bow)
-  content : Gichin Funakoshi
-  feature_item :
-      # feature item loop
-    - title : The Origins of Karate
-      icon : ti-book # themify icon pack : https://themify.me/themify-icons
-      content : Based on the Dragon, the Tigre, the Praying Mantis, the Snake and the Crane, Kung-fu was one of the most popular martial arts. Then, on a Japanese Island called Okinawa, Karate was born...
-
-
+  enable: true
+  image: images/backgrounds/IMG_8622.jpg
+  image_webp: images/backgrounds/IMG_8622.webp
+  title: Karate starts and ends with "rei" (bow)
+  content: Gichin Funakoshi
+  feature_item:
+    # feature item loop
+    - title: Work ethic
+      icon: bi bi-ladder # themify icon pack : https://themify.me/themify-icons
+      content: Progress in karate requires physical and mental work, rewarded by improved fitness and self-esteem.
 
       # feature item loop
-    - title : The Meaning of Karate
-      icon : ti-split-h # themify icon pack : https://themify.me/themify-icons
-      content : "Karate is broken down into two parts: 'Kara', meaning empty, and 'Te', which means hand."
+    - title: Fitness
+      icon: bi bi-person-arms-up # themify icon pack : https://themify.me/themify-icons
+      content: "Karate is a sport in which flexibility, strength, endurance and speed are all assets that we develop with each training session."
 
       # feature item loop
-    - title : Shorin-Ryu
-      icon : ti-search # themify icon pack : https://themify.me/themify-icons
-      content : "Directly translated, Shorin Ryu means 'The Style (ryu) of the pine forest (shorin)'. This is one of the multiple styles of karate."
+    - title: Team spirit
+      icon: bi bi-people-fill # themify icon pack : https://themify.me/themify-icons
+      content: Karate is seen as a solitary sport, but it is practiced in an atmosphere of mutual support and team spirit.
 
       # feature item loop
-    - title : Shotokan
-      icon : ti-search # themify icon pack : https://themify.me/themify-icons
-      content : Shotokan is yet another of the multiple styles of karate. It is somewhat of a child of Shorin-Ryu as it keeps some of its traditions through the presentation of techniques and katas.
+    - title: Pleasure
+      icon: bi bi-balloon-heart # themify icon pack : https://themify.me/themify-icons
+      content: The foundations of the karate taught at our school are the pleasure of accomplishment, learning and moving forward.

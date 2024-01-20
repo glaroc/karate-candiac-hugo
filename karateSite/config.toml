@@ -62,19 +62,19 @@ weight = 2
 [[Languages.en.menu.main]]
 name = "Our Team"
 pre = "en/#"
-url = "portfolio"
+url = "team"
 weight = 3
 
 [[Languages.en.menu.main]]
 name = "Styles and Techniques"
 pre = "en/#"
-url = "team"
+url = "blog"
 weight = 4
 
 [[Languages.en.menu.main]]
 name = "Contact Us"
 pre = "en/#"
-url = "pricing"
+url = "contact"
 weight = 5
 
 ################### French Navigation ########################

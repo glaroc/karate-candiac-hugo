@@ -2,7 +2,7 @@
 title: "Glossaire des termes japonais généralement utilisés en karaté"
 image: images/kiba_dachi.png
 author: John Doe
-description: "This is meta description"
+description: "Apprenez les termes japonais utilisés au karaté"
 layout: katas
 url: /en/glosssary/
 ---

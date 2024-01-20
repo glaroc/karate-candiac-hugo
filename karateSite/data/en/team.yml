@@ -5,84 +5,72 @@ team:
   team_member:
     # team member loop
     - name: Sensei (Soke) Normand Théoret
-      image_webp: images/team/team-1.webp
-      image: images/team/team-1.jpg
-      designation: Ceinture noire, 5e dan. Maître fondateur de l'école.
-      content: Je pratique les arts martiaux depuis l’âge de 11 ans.
-        Je suis cofondateur de l’école de karaté de Candiac et je suis responsable du développement de plus de 25 ceintures noires.
-        J'ai été élève de Daniel Alexander 6e dan, fondateur de l’académie Shorin-Ryu et de  Maxime Mazaltarim 7e dan, jadis du style européen Sankukai.
-        J'ai été plusieurs fois membre et capitaine de l’équipe de compétition de la rive sud de Montréal.
+      image: images/senseis/Normand.jpg
+      designation: Black belt, 5th dan. Founding master of the school.
+      content: I've been practicing martial arts since the age of 11. I co-founded the Candiac karate school and am responsible for the development of over 25 black belts. I was a student of Daniel Alexander 6th dan, founder of the Shorin-Ryu academy, and Maxime Mazaltarim 7th dan, formerly of the European Sankukai style. I was several times a member and captain of the Montreal South Shore competition team.
 
     # team member loop
     - name: Sensei Guillaume Larocque
-      image_webp: images/team/team-2.webp
-      image: images/team/team-2.jpg
-      designation: Ceinture noire, 4e dan
-      content: Depuis mes premiers cours de karaté à l'âge de 8 ans à l'école de karaté Candiac, je n'ai jamais cessé d'aimer et de pratiquer le karaté. J'ai obtenu ma ceinture noire en 1993 et j'enseigne depuis.
+      image_webp: images/senseis/Guillaume.jpg
+      designation: Black belt, 4th dan.
+      content: Since my first karate lessons at the age of 8 at the Candiac karate school, I've never stopped loving and practising karate. I obtained my black belt in 1993 and have been teaching ever since. Professionally, I work in the fields biodiversity science and ecoinformatics.
 
     # team member loop
     - name: Sensei Stephen Quiblat
-      image_webp: images/team/team-3.webp
-      image: images/team/team-3.jpg
+      image: images/senseis/Stephen.jpg
       designation: Sikaran (ceinture noire, 3e Dan), Judo (ceinture brune), Shotokan (ceinture noire, 2e Dan ), Tae Kwon Do (ceinture noire, 1er Dan), Doce Pares (ceinture brune).
-      content:
-        J'ai commencé les arts avec le club de mon frère aîné (Sinka Sikaran) à l'âge de 6 ans et depuis, je suis accro aux arts martiaux.
-        Piqué par la curiosité, j'ai aussi commencé à visiter l'école de mon cousin (Phoenix Martial Arts, une combinaison de Kung Fu et de style d'Okinawa). J'ai ensuite joint l'école de Judo de mon autre frère (XU/Kodukan Judo club).
+      content: I started the arts with my older brother's club (Sinka Sikaran) at the age of 6 and have been hooked ever since. Out of curiosity, I also started visiting my cousin's school (Phoenix Martial Arts, a combination of Kung Fu and Okinawan style). I then joined my other brother's Judo school (XU/Kodukan Judo club).
 
     # team member loop
     - name: Sensei Pierre Payant
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
+      image: images/senseis/Pierre.jpg
       designation: Black belt, 2nd dan
       content: "I took up karate in Sankukai (1972). Subsequently: brown belt, Ate-Waza Kan (1986); black belt, Kebeckan (1993); black belt, Shotokan (2003), 1st Dan (2004); 1st Dan recognized by École Candiac (2007); 2nd Dan awarded by the École (2011). Motivated by unique colleagues, I will continue my practice as long as my health permits."
 
     # team member loop
     - name: Sensei Mélanie Rochon
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
+      image: images/senseis/Melanie.jpg
       designation: Black belt, 3rd dan
-      content:
-        J'ai commencé à faire du karaté à l'âge de 9 ans en 1987, à l'école de karaté Candiac.
-        Alors que j'étais ceinture brune, je me suis inscrite dans une autre école de style Shotokan et depuis, je pratique les deux styles. En 1997, j'ai commencé à enseigner et à partager ma passion et en 1999, j'ai obtenu ma ceinture noire. Depuis mes débuts, je n'ai jamais cessé la pratique du karaté, et je compte continuer le plus longtemps possible. En plus de me donner une ceinture noire et une deuxième famille, le karaté m'a appris le dépassement de soi, la persévérance et le respect des autres.
+      content: I started karate at the age of 9 in 1987, at the Candiac karate school. As a brown belt, I enrolled in another Shotokan-style school and have been practising both styles ever since. In 1997, I started teaching and sharing my passion, and in 1999, I obtained my black belt. Since then, I've never stopped practising karate, and I intend to continue for as long as possible. In addition to giving me a black belt and a second family, karate has taught me to surpass myself, persevere and respect others.
 
     # team member loop
     - name: Sensei Yannick Preziuso
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
-      designation: Ceinture noire, 1ere dan
-      content: J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
+      image: images/senseis/Yannick.jpg
+      designation: Black belt, 1st dan
+      content: "I started karate at the age of 11 at the Candiac karate school with Normand Théoret sensei. He was my teacher for many years. I took a 13-year break from karate, and after all those years I resumed classes, finally earning my black belt in 2013. I've been teaching him ever since. In 2010, during the summer, I practiced a few techniques with Stephan Quiblat sensei. I'm currently doing two black belt martial arts styles: Shorin ryu and KyokuShin Kai in a private school I've been attending since 2012 to further improve my skills with Stéphane Giroux sensei. I like fighting, I'm perseverant and disciplined. I hope to pursue karate for as long as my sensei Normand Théoret, whom I respect enormously."
 
     # team member loop
     - name: Sensei Daniel Tilli
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
-      designation: Ceinture noire, 1ere dan
+      image: images/senseis/Daniel.jpg
+      designation: Black belt, 1st dan
       content: From an early age, I've been very active, starting karate at the age of 6 with sensei Normand Théoret, and practising relentlessly until I obtained my black belt in 1997. A few years later, life led me to take up other sports on a regular basis (climbing, running, road biking, cross-country skiing), and with full-time studies and work, I took a 17-year break. I've been back for several years now, and it motivates me to see the young people and adults who come back year after year with the same motivation I have for this great sport and lifestyle.
 
     # team member loop
     - name: Sensei François Martel
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
-      designation: Ceinture noire, 1ere dan
+      image: images/senseis/Francois.jpg
+      designation: Black belt, 1st dan
       content: "I've loved martial arts since I was very young. I practised judo for several years until I obtained my blue belt. In 2002, my son and I signed up for karate at the town of Candiac in the parent-child group. I then continued with the adult group until I obtained my black belt. I really like the philosophy of our school; a more traditional style that promotes the values of respect and perseverance. Our master (Normand Théoret) and all the other Senseis have a passion for their art, which pushes us to surpass ourselves. The spirit of camaraderie is another reason why I'm still with the school after more than 20 years. My job: I'm a doctor. Other sports: badminton and jogging."
 
     # team member loop
+    - name: Sensei Stefan Savaria
+      image: images/senseis/Stefan.jpg
+      designation: Black belt, 1st dan
+      content:
+
+    # team member loop
     - name: Sensei Elie Francis
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
-      designation: Ceinture noire, 1ere dan
-      content: J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
+      image: images/senseis/Elie.jpg
+      designation: Black belt, 1st dan
+      content:
 
     # team member loop
     - name: Senpai Marie-Hélène Fortin
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
-      designation: Ceinture brune
-      content: J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
+      image: images/senseis/Marie-Hélène.jpg
+      designation: Brown belt
+      content: I decided to sign up for karate classes with the town of Candiac in order to get back into shape following my pregnancies. I've been practising this art for just over 11 years now, and it's still a great pleasure. I never thought I'd get a brown belt! I'm really proud of what I've achieved. The senseis and other karatekas have all supported and encouraged me along the way. As well as contributing to my physical and mental well-being, karate has a positive effect on my confidence and allows me to surpass myself. Today, I'm continuing my development by sharing the techniques I've been taught, while continuing to refine them myself!
 
     # team member loop
     - name: Senpai Tristan Francis
-      image_webp: images/team/team-4.webp
-      image: images/team/team-4.jpg
-      designation: Ceinture brune
-      content: J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
+      image: images/senseis/Tristan.jpg
+      designation: Brown belt
+      content:

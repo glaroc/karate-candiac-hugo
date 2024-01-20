@@ -2,7 +2,7 @@
 title: "Katas and techniques"
 image: images/Normand_kata.jpg
 author: John Doe
-description: "This is meta description"
+description: "Videos and images showing the katas and techniques taught at our school."
 url: /en/katas/
 ---
 
