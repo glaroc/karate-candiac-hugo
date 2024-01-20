@@ -1,11 +1,10 @@
 ############################# call to action ##############################
 cta:
-  enable : true
-  bg_image : "images/backgrounds/fond_kimono2.jpg"
-  bg_image_webp : "images/backgrounds/fond_kimono2.webp"
-  title : "Inscriptions en ligne"
-  content : "Les inscriptions se font en ligne au début septembre sur le site du service des loisirs de la ville de Candiac. "
+  enable: true
+  bg_image: "images/backgrounds/fond_kimono2.jpg"
+  title: "Inscriptions en ligne"
+  content: "Les inscriptions se font en ligne au début septembre sur le site du service des loisirs de la ville de Candiac. "
   button:
-    enable : true
-    label : "Services des loisirs de la ville de Candiac"
-    link : "https://candiac.ca/activites/loisirs"
+    enable: true
+    label: "Services des loisirs de la ville de Candiac"
+    link: "https://candiac.ca/activites/loisirs"
