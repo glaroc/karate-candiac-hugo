@@ -23,6 +23,7 @@ team:
     # team member loop
     - name: Sensei Stephen Quiblat
       image: images/senseis/Stephen.jpg
+      designation: Ceinture noire, 3e dan
       designation: Sikaran (ceinture noire, 3e Dan), Judo (ceinture brune), Shotokan (ceinture noire, 2e Dan ), Tae Kwon Do (ceinture noire, 1er Dan), Doce Pares (ceinture brune).
       content:
         J'ai commencé les arts avec le club de mon frère aîné (Sinka Sikaran) à l'âge de 6 ans et depuis, je suis accro aux arts martiaux.
@@ -44,31 +45,31 @@ team:
     # team member loop
     - name: Sensei Yannick Preziuso
       image: images/senseis/Yannick.jpg
-      designation: Ceinture noire, 1ere dan
+      designation: Ceinture noire, 1er dan
       content: J'ai commencé le karaté dès l'âge de 11 ans à l'école de karaté de Candiac avec sensei Normand théoret. Il a été mon professeur durant de longues années. J'ai pris une pause de 13 ans, et après toutes ces années d'arrêt j'ai repris les cours pour finalement obtenir ma ceinture noire en 2013. Je l'enseigne à mon tour depuis. En 2010 pendant la période d'été, je pratique quelques techniques avec sensei Stephan Quiblat. Présentement je fais deux styles d'art martiaux ceinture noire; Shorin ryu et le KyokuShin Kai dans une école privée que je fréquente depuis 2012 pour me perfectionner d'avantage avec sensei Stéphane Giroux. J'aime bien les combats, je suis persévérant et discipliné. Je souhaite poursuivre le karaté aussi longtemps que mon sensei Normand Théoret que je respecte énormément.
 
     # team member loop
     - name: Sensei Daniel Tilli
       image: images/senseis/Daniel.jpg
-      designation: Ceinture noire, 1ere dan
+      designation: Ceinture noire, 1er dan
       content: Depuis mon plus jeune âge, j'ai été très actif, j'ai commencé le karaté à l'âge de 6 ans avec sensei Normand Théoret, et je l'ai pratiqué sans relâche jusqu'à l'obtention de ma ceinture noire en 1997. Quelques années plus tard la vie m’a amené à faire d’autres sports sur une base régulière (escalade, course à pied, vélo de route, ski de fond), ainsi que les études et travail à temps plein, j’ai fait une pause de 17 ans. De retour depuis plusieurs années déjà, je me motive à voir les jeunes et adultes qui reviennent année après année avec la même motivation que j'ai pour ce beau sport et style de vie.
 
     # team member loop
     - name: Sensei François Martel
       image: images/senseis/Francois.jpg
-      designation: Ceinture noire, 1ere dan
+      designation: Ceinture noire, 1er dan
       content: "J'aime les arts martiaux depuis mon jeune âge. J'ai pratiqué le judo pendant plusieurs années jusqu'à ma ceinture bleue. En 2002, je me suis inscrit avec mon fils au karaté à la ville de Candiac dans le groupe parent-enfant. J'ai ensuite continué avec le groupe des adultes jusqu'à ma ceinture noire. J’aime beaucoup la philosophie de notre école; un style plus traditionnel qui prône des valeurs de respect et de persévérance. Notre maître (Normand Théoret) ainsi que tous les autres Senseis ont une passion pour leur art, ce qui nous pousse à nous dépasser. L'esprit de camaraderie qui y règne est une autre raison pour laquelle je suis toujours avec cette école après plus de 20 ans. Mon travail: je suis médecin. Autres sports: le badminton et le jogging."
 
     # team member loop
     - name: Sensei Stefan Savaria
       image: images/senseis/Stefan.jpg
-      designation: Ceinture noire, 1ere dan
+      designation: Ceinture noire, 1er dan
       content:
 
     # team member loop
     - name: Sensei Elie Francis
       image: images/senseis/Elie.jpg
-      designation: Ceinture noire, 1ere dan
+      designation: Ceinture noire, 1er dan
       content:
 
     # team member loop
