@@ -17,11 +17,11 @@ url: /en/katas/
             <option value="uYK-XqdvPwE">1ere forme</option>
             <option value="VgroTAimb_Y">2e forme</option>
             <option value="WLOAWwEdWLc">3e forme</option>
-            <option value="PLodBAlBs1Q">Midoli motto wasa</option>
+            <option value="PLodBAlBs1Q">Midori moto wasa</option>
             <option value="CMnDsqifIr4">1er pinan</option>
             <option value="tgbEGk7idoE">2e pinan</option>
             <option value="ajeiHPHwOXI">3e pinan</option>
-            <option value="zUb5v6kXuV4">Ao motto wasa</option>
+            <option value="zUb5v6kXuV4">Ao moto wasa</option>
             <option value="U0nlcAD_G3Y">4e pinan</option>
             <option value="bOd0dHKFv9k">5e pinan</option>
             <option value="P4eFTcIpRq4">Naihanchi 1</option>
