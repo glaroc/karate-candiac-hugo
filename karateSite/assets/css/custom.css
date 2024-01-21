@@ -133,6 +133,10 @@ img[src$="#center"] {
   margin: auto;
 }
 
+.call-to-action h2 {
+  color: #bc002d;
+}
+
 .member-photo .mask {
   background-color: rgba(255, 209, 121, 0.7);
 }
