@@ -55,7 +55,7 @@ team:
     - name: Sensei Stefan Savaria
       image: images/senseis/Stefan.jpg
       designation: Black belt, 1st dan
-      content:
+      content: I began my martial arts career at the Tae Kwon Do Chong Lee competition school. After a few years of competition, I took a break to practice other sports such as triathlon competition.  Having moved to Candiac, I saw that there was a karate school nearby and decided to obtain my black belt in order to teach martial arts.  What I particularly appreciate about this school is that the diversity of backgrounds of the different teachers means that you can acquire a wide range of skills and techniques from different martial arts, while remaining on a karate path.  I have also given several women's self-defence courses in Candiac..
 
     # team member loop
     - name: Sensei Elie Francis
