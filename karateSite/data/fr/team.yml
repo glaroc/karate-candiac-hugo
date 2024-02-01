@@ -64,7 +64,7 @@ team:
     - name: Sensei Stefan Savaria
       image: images/senseis/Stefan.jpg
       designation: Ceinture noire, 1er dan
-      content:
+      content: "J'ai commencé mon parcours dans les arts martiaux à l'école de compétition de Tae Kwon Do Chong Lee. Après quelques années de compétition, j'ai pris une pause afin de pratiquer d'autres sports tel que la compétition de triathlon.  Ayant déménagé à Candiac, j'ai constaté qu'il y avait une école de karaté à côté de chez nous et décidé d'obtenir ma ceinture noire afin d'enseigner les arts martiaux.  Ce que j'apprécie particulièrement de cette école est que la diversité de parcours des différents professeurs permet d'acquérir des habiletés et des techniques très variées provenant de différents arts martiaux tout en demeurant dans un parcours de karaté.  J'ai également donné plusieurs cours d'auto-défense pour femme à Candiac."
 
     # team member loop
     - name: Sensei Elie Francis
