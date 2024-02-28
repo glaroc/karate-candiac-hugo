@@ -1,7 +1,7 @@
 ############################# annonces ###################################
 annonces:
-  enable: false
+  enable: true
   title: Annonces
   items:
-    - title: Reprise des cours
-      content: Les cours reprennent le 15 janvier 2024.
+    - title: Atelier de jiu-jitsu
+      content: Rappel: ce soir le mercredi 28 février ne manquez l'atelier d'introduction au jiu-jitsu brésilien à 19h30. Tous les élèves de l'école sont invités gratuitement.
