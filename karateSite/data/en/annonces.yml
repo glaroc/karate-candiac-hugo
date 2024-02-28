@@ -1,7 +1,7 @@
 ############################# annonces ###################################
 annonces:
   enable: true
-  title: Annonces
+  title: Annoucements
   items:
     - title: Exams
       content: Exams will start on the week of March 18 with the yellow belt exams (white to yellow). All other exams will take place on the following week.
