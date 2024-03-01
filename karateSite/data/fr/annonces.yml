@@ -3,7 +3,5 @@ annonces:
   enable: true
   title: Annonces
   items:
-    - title: Atelier de jiu-jitsu
-      content: Ce soir le mercredi 28 février ne manquez l'atelier d'introduction au jiu-jitsu brésilien à 19h30. Tous les élèves de l'école sont invités gratuitement.
     - title: Examens
       content: Les examens débuteront dans la semaine du 18 mars avec les examens de ceintures jaunes (passage blanche à jaune). Tous les autres examens auront lieu dans la semaine suivante.
