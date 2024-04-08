@@ -3,5 +3,5 @@ annonces:
   enable: true
   title: Annonces
   items:
-    - title: Examens
-      content: Les examens débuteront dans la semaine du 18 mars avec les examens de ceintures jaunes (passage blanche à jaune). Tous les autres examens auront lieu dans la semaine suivante.
+    - title: Remise des ceintures
+      content: La remise des ceintures aura lieu lors des derniers cours les mercredi 17 et lundi 22 avril. Le 22 avril, le cours aura exceptionnellement lieu à 19h00. 
