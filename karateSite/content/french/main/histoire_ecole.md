@@ -64,3 +64,8 @@ pas supérieure ou inférieure aux autres écoles de karaté, elle représente t
 ![Un groupe d'élèves de 2003](/images/Groupe_karate_2008.jpg#center)
 
 <div class="caption">Groupe d'élèves de 2008</div>
+<br><br>
+
+![Un groupe d'élèves de 2024](/images/2024.jpg#center)
+
+<div class="caption">Groupe d'élèves de 2024</div>
