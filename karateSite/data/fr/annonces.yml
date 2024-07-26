@@ -3,5 +3,7 @@ annonces:
   enable: true
   title: Annonces
   items:
-    - title: Remise des ceintures
-      content: La remise des ceintures aura lieu lors des derniers cours les mercredi 17 et lundi 22 avril. Le 22 avril, le cours aura exceptionnellement lieu à 19h00. 
+    - title: Inscriptions
+      content: Les inscriptions vont se faire sur le site web du service des loisirs de la Ville de Candiac au début septembre. L'horaire des cours mises à jour est affichée plus bas.
+    - title: Nouveaux cours 2 fois/semaine
+      content: Avec la nouvelle structure des cours offerts par l'école, il est maintenant possible pour tous de faire du karaté les lundis et mercredis! Voir l'horaire plus bas.

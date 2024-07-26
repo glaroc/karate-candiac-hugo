@@ -1,34 +1,39 @@
 ################################# Service #################################
 service:
-  enable : true
-  title : Nos cours
-  service_item :
+  enable: true
+  title: Nos cours
+  service_item:
     # service item loop
-    - name : 5-7 ans 
-      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
-      content : Mercredi 18h30-19h30
-      
+    - name: 5-10 ans
+      icon: ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content: Lundi 18h30-19h30
+      description: Ce cours donne aussi accès au cours du mercredi 18h30-19h30
+
     # service item loop
-    - name : 8-10 ans
-      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
-      content : Mercredi 18h30-19h30
-      
+    - name: 5-7 ans
+      icon: ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content: Mercredi 18h30-19h30
+      description: Ce cours donne aussi accès au cours du lundi 18h30-19h30
+
     # service item loop
-    - name : 11-15 ans 
-      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
-      content : Lundi 18h30-19h30
-      
+    - name: 8-10 ans
+      icon: ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content: Mercredi 18h30-19h30
+      description: Ce cours donne aussi accès au cours du lundi 18h30-19h30
+
     # service item loop
-    - name : 16 ans et +
-      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
-      content : Lundi 19h30-21h00
-      
+    - name: 11 et + / adultes
+      icon: ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content: Lundi 19h35-20h50
+      description: Ce cours donne aussi accès au cours de perfectionnement du mercredi 19h35-20h35
+
     # service item loop
-    - name : Parent-enfant
-      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
-      content : Lundi 18h30-19h30
-      
+    - name: Parent-enfant
+      icon: ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content: Lundi 18h30-19h30
+      description: Ce cours donne aussi accès au cours de perfectionnement du mercredi 19h35-20h35
+
     # service item loop
-    - name : Perfectionnement pour tous
-      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
-      content : Mercredi 19h30-20h30
+    - name: Perfectionnement pour tous
+      icon: ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content: Mercredi 19h35-20h35

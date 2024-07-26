@@ -3,30 +3,40 @@ service:
   enable: true
   title: Our Schedule
   service_item:
+    - name: 5-10 years old
+      icon: ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content: Monday 6:30 pm - 7:30 pm
+      description: This class also gives access to the class on Wednesday 6:30 pm - 7:30 pm
+
     # service item loop
     - name: 5-7 years old
       icon: ti-calendar # themify icon pack : https://themify.me/themify-icons
       content: Wednesday 6:30 pm - 7:30 pm
+      description: This class also gives access to the class on Monday 6:30 pm - 7:30 pm
 
     # service item loop
     - name: 8-10 years old
       icon: ti-calendar # themify icon pack : https://themify.me/themify-icons
       content: Wednesday 6:30 pm - 7:30 pm
+      description: This class also gives access to the class on Monday 6:30 pm - 7:30 pm
 
     # service item loop
     - name: 11-15 years old
       icon: ti-calendar # themify icon pack : https://themify.me/themify-icons
       content: Monday 6:30 pm - 7:30 pm
+      description: This class also gives access to the improvement class on Wednesday 7:35 pm - 8:35 pm
 
     # service item loop
     - name: 16 years and above
       icon: ti-calendar # themify icon pack : https://themify.me/themify-icons
       content: Monday 7:30 pm - 9:00 pm
+      description: This class also gives access to the improvement class on Wednesday 7:35 pm - 8:35 pm
 
     # service item loop
     - name: Parent-Child
       icon: ti-calendar # themify icon pack : https://themify.me/themify-icons
       content: Monday 6:30 pm - 7:30 pm
+      description: This class also gives access to the improvement class on Wednesday 7:35 pm - 8:35 pm
 
     # service item loop
     - name: Improvement for all

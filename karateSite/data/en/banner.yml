@@ -5,7 +5,7 @@ banner:
   bg_image: "images/backgrounds/hero-area.jpg"
   icon: "" # themify icon pack : https://themify.me/themify-icons
   title: "Ecole de karate Candiac"
-  content: "Over 45 years of experience!"
+  content: "Respect and experience since 1975"
   button:
     enable: true
     label: "Discover our School"
