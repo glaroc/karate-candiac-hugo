@@ -3,9 +3,7 @@ annonces:
   enable: true
   title: Annonces
   items:
-    - title: Début des cours le 16 septembre
-      content: Pour les nouveaux participants, veuillez vous présenter en habit de sport. Nous allons vous donner des instructions pour l'achat d'un kimono au premier cours.
-    - title: Inscriptions
-      content: Les inscriptions se font sur le [site web du service des loisirs de la Ville de Candiac](https://candiac.ca/evenements/2024/08/20/inscription-aux-activites-de-loisir). L'horaire des cours mis à jour est affiché plus bas.
-    - title: Nouveaux cours 2 fois/semaine
+    - title: Reprise des cours le 13 janvier
+      content: Bonne année à tous les karatékas! On se revoit en forme au début de la nouvelle session de cours les 13 et 15 janvier.
+    - title: Cours 2 fois/semaine
       content: Avec la nouvelle structure des cours offerts par l'école, il est maintenant possible pour tous de faire du karaté les lundis et mercredis! Voir l'horaire plus bas.
