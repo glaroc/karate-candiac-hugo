@@ -8,7 +8,7 @@ url: /en/katas/
 
 <div>
           <div>
-            Select a kata to view the video or see the<a href="https://www.youtube.com/playlist?list=PLv1cdfh1vMbqOtu76bQnBYAd2CvArzg9T"­­ target="_blank">complete playlist on Youtube</a><br><br>
+            Select a kata to view the video or see the <a href="https://www.youtube.com/playlist?list=PLv1cdfh1vMbqOtu76bQnBYAd2CvArzg9T"­­ target="_blank">complete playlist on Youtube</a><br><br>
             <select id="videomenu">
             <option value="MGLl88TYl5w">1er kata</option>
             <option value="paWbNEikEMs">3e kata</option>
@@ -50,6 +50,9 @@ kata</a></li>
 <ul>
 <li><a class="linkbold" href="/pdf/TechniquesOrange.pdf">Orange Belt Program</a></li>
 <li><a class="linkbold" href="/pdf/3-4-5Katas.pdf">3e, 4e et 5e kata</a></li>
+<li><a class="linkbold" href="/pdf/1ereForme.pdf">1ere forme</a></li>
+<li><a class="linkbold" href="/pdf/2eForme.pdf">2e
+forme</a></li>
 </ul>
 </td>
 </tr>
@@ -58,11 +61,10 @@ kata</a></li>
 <td style="width: 359px;">
 <ul>
 <li><a class="linkbold" href="/pdf/TechniquesVerte.pdf">Green Belt Program</a></li>
-<li><a class="linkbold" href="/pdf/1ereForme.pdf">1ere forme</a></li>
-<li><a class="linkbold" href="/pdf/2eForme.pdf">2e
-forme</a></li>
 <li><a class="linkbold" href="/pdf/3eForme.pdf">3e
 forme</a></li>
+<li><a class="linkbold" href="/pdf/1erPinan.pdf">1er pinan</a></li>
+<li>Midori moto wasa</li>
 </ul>
 </td>
 </tr>
@@ -71,10 +73,10 @@ forme</a></li>
 <td class="linkbold" style="width: 359px;">
 <ul>
 <li><a class="linkbold" href="/pdf/TechniquesBleue.pdf">Blue Belt Program</a></li>
-<li><a class="linkbold" href="/pdf/1erPinan.pdf">1er pinan</a></li>
 <li><a class="linkbold" href="/pdf/2ePinan.pdf">2e
 pinan</a></li><li><a class="linkbold" href="3ePinan.pdf">3e
 pinan</a></li>
+<li>Ao moto wasa</li>
 </ul>
 </td>
 </tr>
