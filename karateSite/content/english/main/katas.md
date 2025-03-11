@@ -74,7 +74,7 @@ forme</a></li>
 <ul>
 <li><a class="linkbold" href="/pdf/TechniquesBleue.pdf">Blue Belt Program</a></li>
 <li><a class="linkbold" href="/pdf/2ePinan.pdf">2e
-pinan</a></li><li><a class="linkbold" href="3ePinan.pdf">3e
+pinan</a></li><li><a class="linkbold" href="/pdf/3ePinan.pdf">3e
 pinan</a></li>
 <li>Ao moto wasa</li>
 </ul>
