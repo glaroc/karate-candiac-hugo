@@ -3,6 +3,14 @@ annonces:
   enable: true
   title: Annonces
   items:
+    - title: Boutique en ligne pour chandails Karaté Candiac
+      content:
+        Nous sommes ravis d'annoncer le lancement de notre boutique en ligne
+        officielle! Vous pouvez désormais acheter des chandails à capuchon, des t-shirts,
+        des camisoles sans maches pour mettre sous le gi et des vestes avec fermeture éclair,
+        avec le logo de l'école. Vous pouvez faire livrer les articles à la maison ou aller les
+        chercher directement à la boutique à Saint-Hubert.
+        [Cliquez-ici pour accéder à la boutique et commander vos articles](https://boutiqueimbo-2.ca/en-ligne/fr/karate-candiac-c141/).
     - title: L'École de karaté Candiac fête ses 50 ans!
       content: C'est en janvier 1976 que débutèrent les cours de karaté à
         Candiac, sous la direction de Sensei (Soke) Normand Théoret. Pour célébrer ce

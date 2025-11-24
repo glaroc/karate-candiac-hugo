@@ -3,6 +3,13 @@ annonces:
   enable: true
   title: Annoucements
   items:
+    - title: Online Store for Candiac Karate sportswear
+      content:
+        We are excited to announce the launch of our official online store!
+        You can now purchase hoodies, t-shirts, sleeveless shirts to wear under the gi,
+        and zip-up jackets, all featuring the school's logo. You can have the items delivered
+        to your home or pick them up directly at the store in Saint-Hubert.
+        [Click here to access the store and order your items](https://boutiqueimbo-2.ca/en-ligne/fr/karate-candiac-c141/).
     - title: The Candiac Karate School is celebrating its 50th anniversary!
       content: It was in January 1976 that karate classes began in
         Candiac, under the direction of Sensei (Soke) Normand Théoret. To celebrate this
