@@ -3,6 +3,12 @@ annonces:
   enable: true
   title: Annoucements
   items:
+    - title: Classes will resume on January 12, 2026
+      content:
+        The classes for 2025 are finished. We will resume our activities on
+        January 12, 2026. We wish you all a happy holiday season and a
+        prosperous new year!
+    - title: The Candiac Karate School is celebrating its 50th anniversary!
     - title: Online Store for Candiac Karate sportswear
       content:
         We are excited to announce the launch of our official online store!

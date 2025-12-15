@@ -3,6 +3,11 @@ annonces:
   enable: true
   title: Annonces
   items:
+    - title: Les cours reprendront le 12 janvier 2026
+      content:
+        Les cours pour 2025 sont terminés. Nous reprendrons nos activités le
+        12 janvier 2026. Nous vous souhaitons à tous de joyeuses fêtes et une
+        nouvelle année prospère!
     - title: Boutique en ligne pour chandails Karaté Candiac
       content:
         Nous sommes ravis d'annoncer le lancement de notre boutique en ligne
