@@ -6,6 +6,9 @@ description: "Apprenez les termes japonais utilisés au karaté"
 layout: katas
 url: /en/glosssary/
 ---
+<h4>
+<a href="/lexique-custom/">Try the new interactive glossary! </a>
+</h4>
 
 La transmission des connaissances s'étant faite dans le passé et se faisant encore aujourd'hui principalement de façon orale, il arrive parfois que des erreurs de prononciation ou même de choix de mots se glissent dans l'utilisation des termes et ce, malgré la bonne volonté et la bonne foi de ceux qui les partagent. Vous trouverez donc ci-après, une liste qui se veut pertinente sans toutefois avoir la prétention d'être exhaustive ou bien avoir préséance sur tout ce qui existe déjà au sein de notre École comme référence, tant par transmission orale des Sensei, que sur le web et en format papier; il s'agit simplement d'un outil additionnel à l'enseignement des techniques.
 
