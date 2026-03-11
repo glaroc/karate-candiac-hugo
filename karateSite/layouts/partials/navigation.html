@@ -2,14 +2,14 @@
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-dark">
       <a class="navbar-brand p-0" href="{{ .Site.BaseURL | relLangURL }}">
-        {{ if site.Params.logo }}
+        {{ if .Site.Params.logo }}
         <img
           class="lozad"
-          data-src="{{ site.Params.logo | absURL }}"
+          data-src="{{ .Site.Params.logo | absURL }}"
           alt="{{ .Site.Title }}"
           height="42"
         />
-        {{ else }} {{ site.Title }} {{ end }}
+        {{ else }} {{ .Site.Title }} {{ end }}
       </a>
 
       <button
@@ -23,20 +23,20 @@
 
       <div class="collapse navbar-collapse" id="navigation">
         <ul class="navbar-nav ml-auto">
-          {{ range site.Menus.main }}
+          {{ range .Site.Menus.main }}
           <li class="nav-item">
             <a
               class="nav-link"
-              href="{{if .Pre}}{{site.BaseURL | absLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}"
+              href="{{if .Pre}}{{$.Site.BaseURL | absLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}"
               >{{ .Name }}</a
             >
           </li>
           {{ end }}
         </ul>
         <!-- Language List -->
-        {{- if site.IsMultiLingual }}
+        {{- if gt (len .Site.Languages) 1 }}
         <select id="select-language" onchange="location = this.value;">
-          {{ $siteLanguages := site.Languages}} {{ $pageLang := .Page.Lang}} {{
+          {{ $siteLanguages := .Site.Languages}} {{ $pageLang := .Page.Lang}} {{
           range .Page.AllTranslations }} {{ $translation := .}} {{ range
           $siteLanguages }} {{ if eq $translation.Lang .Lang }} {{ $selected :=
           false }} {{ if eq $pageLang .Lang}}

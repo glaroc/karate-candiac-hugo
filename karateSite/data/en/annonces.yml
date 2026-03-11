@@ -3,12 +3,18 @@ annonces:
   enable: true
   title: Annoucements
   items:
-    - title: Classes will resume on January 12, 2026
+    - title: Classes Canceled on March 11
       content:
-        The classes for 2025 are finished. We will resume our activities on
-        January 12, 2026. We wish you all a happy holiday season and a
-        prosperous new year!
-    - title: The Candiac Karate School is celebrating its 50th anniversary!
+        Karate classes on Tuesday, March 11 are canceled due to school closures. We apologize for any inconvenience this may cause and encourage all members to stay safe during the severe weather conditions.
+    - title: Exams starting on March 16
+      content:
+        Exams for the transition from white to yellow and from yellow to orange will begin on Monday, March 16 and Wednesday, March 18. Exams for higher belts will take place in the following weeks. We encourage all students to continue practicing at home. 
+    - title: Special Hapkido Workshop on Wednesday, April 8
+      content:
+        We are excited to announce a special Hapkido workshop that will take place on Wednesday, April 8 from 7:30pm to 9pm at École Jean-Leman. This workshop is open to all members of the school. This is a great opportunity to explore another martial arts discipline and improve your self-defense skills. We hope to see many of you there!
+    - title: Belt ceremony on Monday, April 13
+      content:
+        The belt ceremony, open to all members of the school, will take place on Monday, April 13 at 7pm at École Jean-Leman.
     - title: Online Store for Candiac Karate sportswear
       content:
         We are excited to announce the launch of our official online store!

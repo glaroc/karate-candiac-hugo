@@ -3,11 +3,18 @@ annonces:
   enable: true
   title: Annonces
   items:
-    - title: Les cours reprendront le 12 janvier 2026
+    - title: Cours annulés le 11 mars
       content:
-        Les cours pour 2025 sont terminés. Nous reprendrons nos activités le
-        12 janvier 2026. Nous vous souhaitons à tous de joyeuses fêtes et une
-        nouvelle année prospère!
+        Les cours de karaté du mardi 11 mars sont annulés en raison de la fermeture des écoles. Nous nous excusons pour tout inconvénient que cela pourrait causer et encourageons tous les membres à rester en sécurité pendant les conditions météorologiques difficiles.
+    - title: Début des examens le 16 mars
+      content:
+        Les examens pour le passage de blanche à jaune et de jaune à orange débuteront le lundi 16 mars et mercredi 18 mars. Les examens pour les ceintures supérieures auront lieu dans les semaines suivantes. Nous encourageons tous les étudiants à continuer de pratiquer à la maison. 
+    - title: Stage spécial de Hapkido le mercredi 8 avril
+      content:
+        Nous sommes heureux d'annoncer un stage spécial de Hapkido qui aura lieu le mercredi 8 avril de 19h30 à 21h au Dojo de l'École Jean-Leman. Ce stage est ouvert à tous les membres de l'école. C'est une excellente occasion d'explorer une autre discipline martiale et d'améliorer vos compétences en auto-défense. Nous espérons vous y voir nombreux!
+    - title: Cérémonie de remise des ceintures le lundi 13 avril
+      content:
+        La cérémonie de remise de ceintures, ouverte à tous les membres de l'école, aura lieu le lundi 13 avril à 19h à l'École Jean-Leman. 
     - title: Boutique en ligne pour chandails Karaté Candiac
       content:
         Nous sommes ravis d'annoncer le lancement de notre boutique en ligne
