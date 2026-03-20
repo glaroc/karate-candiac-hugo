@@ -3,9 +3,6 @@ annonces:
   enable: true
   title: Annonces
   items:
-    - title: Cours annulés le 11 mars
-      content:
-        Les cours de karaté du mardi 11 mars sont annulés en raison de la fermeture des écoles. Nous nous excusons pour tout inconvénient que cela pourrait causer et encourageons tous les membres à rester en sécurité pendant les conditions météorologiques difficiles.
     - title: Début des examens le 16 mars
       content:
         Les examens pour le passage de blanche à jaune et de jaune à orange débuteront le lundi 16 mars et mercredi 18 mars. Les examens pour les ceintures supérieures auront lieu dans les semaines suivantes. Nous encourageons tous les étudiants à continuer de pratiquer à la maison. 
