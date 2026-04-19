@@ -3,15 +3,9 @@ annonces:
   enable: true
   title: Annonces
   items:
-    - title: Début des examens le 16 mars
-      content:
-        Les examens pour le passage de blanche à jaune et de jaune à orange débuteront le lundi 16 mars et mercredi 18 mars. Les examens pour les ceintures supérieures auront lieu dans les semaines suivantes. Nous encourageons tous les étudiants à continuer de pratiquer à la maison. 
-    - title: Stage spécial de Hapkido le mercredi 8 avril
-      content:
-        Nous sommes heureux d'annoncer un stage spécial de Hapkido qui aura lieu le mercredi 8 avril de 19h30 à 21h au Dojo de l'École Jean-Leman. Ce stage est ouvert à tous les membres de l'école. C'est une excellente occasion d'explorer une autre discipline martiale et d'améliorer vos compétences en auto-défense. Nous espérons vous y voir nombreux!
     - title: Cérémonie de remise des ceintures le lundi 20 avril
       content:
-        La cérémonie de remise de ceintures, ouverte à tous les membres de l'école, aura lieu le lundi 20 avril à 19h à l'École Jean-Leman. 
+        La cérémonie de remise de ceintures, ouverte à tous les membres de l'école, aura lieu le lundi 20 avril de 18h45 à 20h00 à l'École Jean-Leman. 
     - title: Boutique en ligne pour chandails Karaté Candiac
       content:
         Nous sommes ravis d'annoncer le lancement de notre boutique en ligne
