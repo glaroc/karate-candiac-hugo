@@ -3,7 +3,7 @@ cta:
   enable: true
   bg_image: "images/backgrounds/fond_kimono2.jpg"
   title: "Inscriptions en ligne"
-  content: "Les inscriptions se font en ligne au début septembre sur le site du service des loisirs de la ville de Candiac. "
+  content: "Les inscriptions se font en ligne dès le 1er septembre à midi sur le [site du service des loisirs](https://loisirs.ville.candiac.qc.ca/IC3.prod/#/U2010) de la ville de Candiac. "
   button:
     enable: true
     label: "Services des loisirs de la ville de Candiac"

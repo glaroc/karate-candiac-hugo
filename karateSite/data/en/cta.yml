@@ -4,7 +4,7 @@ cta:
   bg_image: "images/backgrounds/fond_kimono2.jpg"
   bg_image_webp: "images/backgrounds/fond_kimono2.webp"
   title: "Online Registration "
-  content: "Registration is online during the beginning of September on the 'Service des Loisirs de Candiac' website"
+  content: "Registration is online starting September 1st at noon on the [Service des Loisirs de Candiac](https://loisirs.ville.candiac.qc.ca/IC3.prod/#/U2010) website"
   button:
     enable: true
     label: "Service des Loisirs for the city of Candiac"
