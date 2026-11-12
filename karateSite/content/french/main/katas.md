@@ -65,7 +65,7 @@ forme</a></li>
 <li><a class="linkbold" href="/pdf/3eForme.pdf">3e
 forme</a></li>
 <li><a class="linkbold" href="/pdf/1erPinan.pdf">1er pinan</a></li>
-<li>Midori moto wasa</li>
+<li><a class="linkbold" href="/pdf/midori-motto-waza.pdf">Midori Motto Waza</a></li>
 </ul>
 </td>
 </tr>
@@ -78,7 +78,7 @@ forme</a></li>
 <li><a class="linkbold" href="/pdf/2ePinan.pdf">2e
 pinan</a></li><li><a class="linkbold" href="/pdf/3ePinan.pdf">3e
 pinan</a></li>
-<li>Ao moto wasa</li>
+<li><a class="linkbold" href="/pdf/ao-motto-waza.pdf">Ao Motto Waza</a></li>
 </ul>
 </td>
 </tr>
@@ -92,6 +92,7 @@ pinan</a></li>
 pinan</a></li>
 <li><a class="linkbold" href="/pdf/5ePinan.pdf">5e
 pinan</a></li>
+<li><a class="linkbold" href="/pdf/chairo-motto-waza.pdf">Chairo Motto Waza</a></li>
 </ul>
 </td>
 </tr>
